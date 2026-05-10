@@ -1,5 +1,7 @@
 # Speed Puzzle World Series 2026 Review
 
+Live site demo [here](https://spws2026-review.vercel.app/)!
+
 Interactive data story for the [Speed Puzzle World Series](https://speedpuzzle.com/) 2026 results. The site visualizes how puzzlers traveled to Munich, how each challenge unfolded, how cumulative rankings changed, and the final rankings across all six challenges.
 
 The project is a static website built with vanilla HTML, CSS, and JavaScript. A small Python script prepares the competition data into the generated `story_data.js` file used by the page.
