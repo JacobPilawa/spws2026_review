@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Speed Puzzle World Series 2026 - Animated Story</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__kicker">Munich, Germany</div>
+    <h1>Speed Puzzle World Series 2026</h1>
+    <p>
+      A re-telling of the Speed Puzzle World Series in data. Scroll through to the next page or use the buttons in the bottom right.
+    </p>
+    <div class="hero__stats" id="heroStats"></div>
+  </header>
+
+  <main class="story-shell">
+    <aside class="stage" id="stage" aria-live="polite">
+      <div class="stage__empty">Loading World Series story...</div>
+    </aside>
+    <section class="chapters" id="chapters"></section>
+  </main>
+
+  <section class="puzzle-gallery" id="puzzleGallery"></section>
+
+  <nav class="page-controls" aria-label="Story navigation">
+    <button type="button" id="prevPage">Previous Page</button>
+    <button type="button" id="replayPage" hidden>Replay</button>
+    <button type="button" id="pausePage" hidden>Pause</button>
+    <button type="button" id="returnTopPage" hidden>Return to Top</button>
+    <button type="button" id="nextPage">Next Page</button>
+  </nav>
+
+  <footer class="footer">
+    <p>Built from <code>data/worldseries/leaderboard_latest.csv</code> and puzzle images in <code>data/worldseries/images</code>.</p>
+  </footer>
+
+  <script src="story_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

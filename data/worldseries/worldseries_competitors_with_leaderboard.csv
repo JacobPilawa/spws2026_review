@@ -1,0 +1,335 @@
+rank,leaderboard_name,leaderboard_country,puzzle1_time,puzzle2_time,puzzle3_time,puzzle4_time,puzzle5_time,puzzle6_time,total_time,puzzle1_seconds,puzzle2_seconds,puzzle3_seconds,puzzle4_seconds,puzzle5_seconds,puzzle6_seconds,total_time_seconds,matched_master_name,matched_master_country,table number,match_method,match_score,master_name,master_country
+1,Wiktor Kacprzak,Poland,0:31:44,0:30:58,0:27:26,0:35:49,0:40:57,0:55:22,3:42:16,1904,1858,1646,2149,2457,3322,13336,Wiktor Kacprzak,Poland,3,exact_norm,1.0,Wiktor Kacprzak,Poland
+2,Katharina Reiner,Germany,0:28:50,0:34:19,0:30:06,0:32:48,0:41:25,1:00:46,3:48:14,1730,2059,1806,1968,2485,3646,13694,Katharina Reiner,Germany,5,exact_norm,1.0,Katharina Reiner,Germany
+3,Nina Schicks,Germany,0:32:09,0:38:14,0:30:50,0:36:24,0:37:36,1:00:16,3:55:29,1929,2294,1850,2184,2256,3616,14129,Nina Schicks,Germany,2,exact_norm,1.0,Nina Schicks,Germany
+4,Weronika Huptas,Poland,0:28:39,0:37:33,0:34:31,0:36:15,0:41:17,1:00:29,3:58:44,1719,2253,2071,2175,2477,3629,14324,Weronika Huptas,Poland,1,exact_norm,1.0,Weronika Huptas,Poland
+5,Maartje van der Meer,Netherlands,0:37:28,0:35:41,0:34:14,0:31:13,0:37:10,1:07:13,4:02:59,2248,2141,2054,1873,2230,4033,14579,Maartje van der Meer,Netherlands,6,exact_norm,1.0,Maartje van der Meer,Netherlands
+6,Rachael Chambers,United Kingdom,0:31:50,0:35:45,0:33:46,0:35:27,0:43:23,1:06:22,4:06:33,1910,2145,2026,2127,2603,3982,14793,Rachael Chambers,United Kingdom,9,exact_norm,1.0,Rachael Chambers,United Kingdom
+7,Maja von Borstel,Germany,0:32:46,0:38:34,0:32:05,0:34:32,0:43:51,1:08:47,4:10:35,1966,2314,1925,2072,2631,4127,15035,Maja von Borstel,Germany,14,exact_norm,1.0,Maja von Borstel,Germany
+8,Emma Quirke,Ireland,0:38:16,0:39:33,0:35:36,0:32:42,0:39:27,1:06:29,4:12:03,2296,2373,2136,1962,2367,3989,15123,Emma Quirke,Ireland,8,exact_norm,1.0,Emma Quirke,Ireland
+9,Markéta Freislerová,Czech Republic,0:33:05,0:38:40,0:35:36,0:33:21,0:45:18,1:06:29,4:12:29,1985,2320,2136,2001,2718,3989,15149,Markéta Freislerová,Czech Republic,19,exact_norm,1.0,Markéta Freislerová,Czech Republic
+10,Inge Sinot,Netherlands,0:35:02,0:41:05,0:32:39,0:34:48,0:43:22,1:08:16,4:15:12,2102,2465,1959,2088,2602,4096,15312,Inge Sinot,Netherlands,10,exact_norm,1.0,Inge Sinot,Netherlands
+11,Gabriel Moreno Turcu,Spain,0:35:31,0:38:07,0:35:56,0:38:41,0:48:56,1:10:00,4:27:11,2131,2287,2156,2321,2936,4200,16031,Gabriel Moreno Turcu,Spain,12,exact_norm,1.0,Gabriel Moreno Turcu,Spain
+12,Tereza Koptíková,Czech Republic,0:33:45,0:42:00,0:40:19,0:37:07,0:47:09,1:07:04,4:27:24,2025,2520,2419,2227,2829,4024,16044,Tereza Koptíková,Czech Republic,13,exact_norm,1.0,Tereza Koptíková,Czech Republic
+13,Dorottya Ferenczné dr. Horváth,Hungary,0:36:50,0:44:26,0:34:43,0:39:02,0:42:45,1:11:55,4:29:41,2210,2666,2083,2342,2565,4315,16181,Dorottya Ferenczné dr. Horváth,Hungary,234,exact_norm,1.0,Dorottya Ferenczné dr. Horváth,Hungary
+14,Franziska Treber,Germany,0:35:36,0:41:16,0:37:00,0:41:10,0:46:43,1:11:33,4:33:18,2136,2476,2220,2470,2803,4293,16398,Franziska Treber,Germany,31,exact_norm,1.0,Franziska Treber,Germany
+15,Hanna Lehikoinen,Finland,0:37:45,0:42:45,0:34:28,0:42:25,0:45:07,1:12:07,4:34:37,2265,2565,2068,2545,2707,4327,16477,Hanna Lehikoinen,Finland,17,exact_norm,1.0,Hanna Lehikoinen,Finland
+16,Kelly Walter,USA,0:42:13,0:42:50,0:36:36,0:37:03,0:45:27,1:10:57,4:35:06,2533,2570,2196,2223,2727,4257,16506,Kelly Walter,USA,47,exact_norm,1.0,Kelly Walter,USA
+17,Mari Black,USA,0:39:05,0:42:39,0:34:05,0:42:35,0:47:34,1:11:41,4:37:39,2345,2559,2045,2555,2854,4301,16659,Mari Black,USA,23,exact_norm,1.0,Mari Black,USA
+18,Kateřina Klinková,Czech Republic,0:37:45,0:43:35,0:37:17,0:39:03,0:47:31,1:14:57,4:40:08,2265,2615,2237,2343,2851,4497,16808,Kateřina Klinková,Czech Republic,52,exact_norm,1.0,Kateřina Klinková,Czech Republic
+19,Iryna Shvydchenko,Canada,0:38:50,0:44:23,0:37:02,0:44:20,0:44:53,1:10:56,4:40:24,2330,2663,2222,2660,2693,4256,16824,Iryna Shvydchenko,Canada,48,exact_norm,1.0,Iryna Shvydchenko,Canada
+20,Chiara Dellantonio,Italy,0:39:58,0:43:37,0:36:20,0:37:10,0:50:56,1:13:49,4:41:50,2398,2617,2180,2230,3056,4429,16910,Chiara Dellantonio,Italy,11,exact_norm,1.0,Chiara Dellantonio,Italy
+21,Lenka Henao Mišíková,Slovakia,0:39:47,0:42:28,0:39:28,0:41:33,0:45:32,1:14:03,4:42:51,2387,2548,2368,2493,2732,4443,16971,Lenka Henao Mišíková,Slovakia,15,exact_norm,1.0,Lenka Henao Mišíková,Slovakia
+22,Emilia Persson,Sweden,0:43:48,0:40:25,0:34:24,0:40:00,0:50:15,1:17:08,4:46:00,2628,2425,2064,2400,3015,4628,17160,Emilia Persson,Sweden,51,exact_norm,1.0,Emilia Persson,Sweden
+23,Tyra Weiring,Sweden,0:38:21,0:44:50,0:36:32,0:41:38,0:47:55,1:18:29,4:47:45,2301,2690,2192,2498,2875,4709,17265,Tyra Weiring,Sweden,25,exact_norm,1.0,Tyra Weiring,Sweden
+24,Shea Burkett,USA,0:39:34,0:45:49,0:38:03,0:42:40,0:45:35,1:16:47,4:48:28,2374,2749,2283,2560,2735,4607,17308,Shea Burkett,USA,28,exact_norm,1.0,Shea Burkett,USA
+25,Šárka Daňhelková,Czech Republic,0:36:12,0:44:53,0:41:22,0:44:35,0:50:00,1:11:41,4:48:43,2172,2693,2482,2675,3000,4301,17323,Šárka Daňhelková,Czech Republic,77,exact_norm,1.0,Šárka Daňhelková,Czech Republic
+26,Jana Ondrouskova,Czech Republic,0:34:35,0:35:32,0:31:50,0:47:08,1:01:18,1:18:24,4:48:47,2075,2132,1910,2828,3678,4704,17327,Jana Ondrouskova,Czech Republic,4,exact_norm,1.0,Jana Ondrouskova,Czech Republic
+27,Tamar Visser,Netherlands,0:39:38,0:41:43,0:37:54,0:40:42,0:50:30,1:18:35,4:49:02,2378,2503,2274,2442,3030,4715,17342,Tamar Visser,Netherlands,22,exact_norm,1.0,Tamar Visser,Netherlands
+28,Clément Beauseigneur,France,0:37:59,0:42:40,0:38:13,0:42:55,0:49:57,1:17:56,4:49:40,2279,2560,2293,2575,2997,4676,17380,Clément Beauseigneur,France,44,exact_norm,1.0,Clément Beauseigneur,France
+29,Delia Keetman,Netherlands,0:37:19,0:46:58,0:42:02,0:41:26,0:52:30,1:10:07,4:50:22,2239,2818,2522,2486,3150,4207,17422,Delia Keetman,Netherlands,18,exact_norm,1.0,Delia Keetman,Netherlands
+30,Rowan Versteege,Netherlands,0:39:54,0:46:33,0:38:21,0:40:15,0:50:56,1:15:16,4:51:15,2394,2793,2301,2415,3056,4516,17475,Rowan Versteege,Netherlands,64,exact_norm,1.0,Rowan Versteege,Netherlands
+31,Caitlin McGregor,Australia,0:36:54,0:46:57,0:40:11,0:39:06,0:48:27,1:22:22,4:53:57,2214,2817,2411,2346,2907,4942,17637,Caitlin McGregor,Australia,37,exact_norm,1.0,Caitlin McGregor,Australia
+32,Oliwia Pracownik,Poland,0:36:27,0:43:35,0:38:36,0:45:38,0:48:56,1:21:35,4:54:47,2187,2615,2316,2738,2936,4895,17687,Oliwia Pracownik,Poland,42,exact_norm,1.0,Oliwia Pracownik,Poland
+33,Lydia Holmgren,Sweden,0:40:58,0:42:18,0:40:54,0:43:48,0:47:24,1:19:35,4:54:57,2458,2538,2454,2628,2844,4775,17697,Lydia Holmgren,Sweden,40,exact_norm,1.0,Lydia Holmgren,Sweden
+34,Laura Guillén,Finland,0:35:34,0:46:05,0:39:50,0:48:44,0:45:57,1:19:07,4:55:17,2134,2765,2390,2924,2757,4747,17717,Laura Guillén,Finland,66,exact_norm,1.0,Laura Guillén,Finland
+35,Kerstin Glaser,Germany,0:41:20,0:48:12,0:36:12,0:37:29,0:50:51,1:23:21,4:57:25,2480,2892,2172,2249,3051,5001,17845,Kerstin Glaser,Germany,20,exact_norm,1.0,Kerstin Glaser,Germany
+36,Tiffany Medeiros,USA,0:38:54,0:44:01,0:39:02,0:40:36,0:50:10,1:26:01,4:58:44,2334,2641,2342,2436,3010,5161,17924,Tiffany Medeiros,USA,97,exact_norm,1.0,Tiffany Medeiros,USA
+37,Line Beate Svestad,Norway,0:41:11,0:44:43,0:40:57,0:44:24,0:51:48,1:16:58,5:00:01,2471,2683,2457,2664,3108,4618,18001,Line Beate Svestad,Norway,79,exact_norm,1.0,Line Beate Svestad,Norway
+38,Annemie Kostezer,Switzerland,0:39:42,0:47:19,0:39:41,0:44:17,0:55:38,1:16:44,5:03:21,2382,2839,2381,2657,3338,4604,18201,Annemie Kostezer,Switzerland,35,exact_norm,1.0,Annemie Kostezer,Switzerland
+39,Veronika Valt,Slovakia,0:46:08,0:47:49,0:40:58,0:44:40,0:46:58,1:17:29,5:04:02,2768,2869,2458,2680,2818,4649,18242,Veronika Valt,Slovakia,21,exact_norm,1.0,Veronika Valt,Slovakia
+40,Zuzanna Krzysztofik,Poland,0:38:32,0:45:00,0:40:01,0:44:11,0:55:46,1:22:56,5:06:26,2312,2700,2401,2651,3346,4976,18386,Zuzanna Krzysztofik,Poland,55,exact_norm,1.0,Zuzanna Krzysztofik,Poland
+41,Rosa Frauenknecht,Finland,0:45:12,0:45:18,0:36:05,0:42:34,0:53:18,1:25:25,5:07:52,2712,2718,2165,2554,3198,5125,18472,Rosa Frauenknecht,Finland,53,exact_norm,1.0,Rosa Frauenknecht,Finland
+42,Brigitta Pozsa,Hungary,0:41:06,0:48:15,0:42:37,0:47:08,0:47:03,1:22:22,5:08:31,2466,2895,2557,2828,2823,4942,18511,Brigitta Pozsa,Hungary,196,exact_norm,1.0,Brigitta Pozsa,Hungary
+43,Britney Ponchaut,Belgium,0:42:50,0:43:15,0:39:21,0:47:12,0:48:52,1:27:24,5:08:54,2570,2595,2361,2832,2932,5244,18534,Britney Ponchaut,Belgium,45,exact_norm,1.0,Britney Ponchaut,Belgium
+44,Riia Iina Luhtala,Finland,0:46:18,0:42:48,0:38:47,0:45:13,0:49:28,1:26:44,5:09:18,2778,2568,2327,2713,2968,5204,18558,Riia Iina Luhtala,Finland,59,exact_norm,1.0,Riia Iina Luhtala,Finland
+45,Hannah Farthing,Australia,0:40:55,0:51:45,0:38:01,0:47:10,0:52:38,1:19:38,5:10:07,2455,3105,2281,2830,3158,4778,18607,Hannah Farthing,Australia,16,exact_norm,1.0,Hannah Farthing,Australia
+46,Sofie Juel Andersen,Denmark,0:40:43,0:51:15,0:45:20,0:45:14,0:53:00,1:17:44,5:13:16,2443,3075,2720,2714,3180,4664,18796,Sofie Juel Andersen,Denmark,24,exact_norm,1.0,Sofie Juel Andersen,Denmark
+47,Miguel Moratiel de la Varga,Spain,0:41:15,0:49:27,0:41:19,0:41:54,0:56:28,1:23:52,5:14:15,2475,2967,2479,2514,3388,5032,18855,Miguel Moratiel de la Varga,Spain,30,exact_norm,1.0,Miguel Moratiel de la Varga,Spain
+48,Tobias Priemer,Sweden,0:45:50,0:47:32,0:40:00,0:46:03,0:52:03,1:24:54,5:16:22,2750,2852,2400,2763,3123,5094,18982,Tobias Priemer,Sweden,69,exact_norm,1.0,Tobias Priemer,Sweden
+49,Brigitta Vinkler,Hungary,0:42:18,0:49:08,0:42:08,0:46:02,1:00:19,1:16:31,5:16:26,2538,2948,2528,2762,3619,4591,18986,Brigitta Vinkler,Hungary,256,exact_norm,1.0,Brigitta Vinkler,Hungary
+50,Eléonore Charline Martin,France,0:40:01,0:49:42,0:43:00,0:49:20,0:58:39,1:17:11,5:17:53,2401,2982,2580,2960,3519,4631,19073,Eléonore Charline Martin,France,300,exact_norm,1.0,Eléonore Charline Martin,France
+51,Océane Fremaux,France,0:39:03,0:50:50,0:42:19,0:43:37,0:53:11,1:29:28,5:18:28,2343,3050,2539,2617,3191,5368,19108,Océane Fremaux,France,185,exact_norm,1.0,Océane Fremaux,France
+52,Elodie Serrano,France,0:42:45,0:50:18,0:41:59,0:45:14,0:53:27,1:25:43,5:19:26,2565,3018,2519,2714,3207,5143,19166,Elodie Serrano,France,109,exact_norm,1.0,Elodie Serrano,France
+53,Susanne Kürschner,Germany,0:44:12,0:46:44,0:48:04,0:46:01,0:55:00,1:21:30,5:21:31,2652,2804,2884,2761,3300,4890,19291,Susanne Kürschner,Germany,70,exact_norm,1.0,Susanne Kürschner,Germany
+54,Molly Weiring,Sweden,0:41:14,0:48:39,0:43:43,0:45:54,0:54:24,1:28:08,5:22:02,2474,2919,2623,2754,3264,5288,19322,Molly Weiring,Sweden,84,exact_norm,1.0,Molly Weiring,Sweden
+55,Inka Koskinen,Finland,0:42:28,0:49:28,0:41:49,0:47:15,0:50:45,1:30:40,5:22:25,2548,2968,2509,2835,3045,5440,19345,Inka Koskinen,Finland,68,exact_norm,1.0,Inka Koskinen,Finland
+56,Kyle Kossin,USA,0:45:23,0:48:02,0:41:22,0:48:44,0:50:22,1:28:33,5:22:26,2723,2882,2482,2924,3022,5313,19346,Kyle Kossin,USA,41,exact_norm,1.0,Kyle Kossin,USA
+57,Johanna Loehr,Germany,0:39:28,0:49:38,0:42:56,0:48:22,1:02:37,1:20:21,5:23:22,2368,2978,2576,2902,3757,4821,19402,Johanna Loehr,Germany,125,exact_norm,1.0,Johanna Loehr,Germany
+58,Katrina Coleman,Australia,0:44:36,0:46:03,0:41:03,0:56:14,0:54:05,1:21:35,5:23:36,2676,2763,2463,3374,3245,4895,19416,Katrina Coleman,Australia,7,exact_norm,1.0,Katrina Coleman,Australia
+59,Natalia Ptaszek,Poland,0:43:49,0:46:17,0:40:04,0:52:21,0:57:19,1:24:16,5:24:06,2629,2777,2404,3141,3439,5056,19446,Natalia Ptaszek,Poland,34,exact_norm,1.0,Natalia Ptaszek,Poland
+60,Ewa Siarkiewicz,Poland,0:48:03,0:51:32,0:40:14,0:49:43,0:52:28,1:22:36,5:24:36,2883,3092,2414,2983,3148,4956,19476,Ewa Siarkiewicz,Poland,26,exact_norm,1.0,Ewa Siarkiewicz,Poland
+61,Alexandra Stark,Germany,0:38:59,0:48:41,0:40:52,0:45:58,0:57:01,1:33:50,5:25:21,2339,2921,2452,2758,3421,5630,19521,Alexandra Stark,Germany,108,exact_norm,1.0,Alexandra Stark,Germany
+62,Maria-Magdalena Robrecht,Germany,0:44:55,0:50:02,0:42:57,0:47:42,0:56:09,1:24:50,5:26:35,2695,3002,2577,2862,3369,5090,19595,Maria-Magdalena Robrecht,Germany,27,exact_norm,1.0,Maria-Magdalena Robrecht,Germany
+63,Lydia Messner,Germany,0:37:39,0:56:07,0:43:51,0:53:36,0:58:40,1:18:16,5:28:09,2259,3367,2631,3216,3520,4696,19689,Lydia Messner,Germany,110,exact_norm,1.0,Lydia Messner,Germany
+64,Daniela Silva,Portugal,0:43:47,0:50:00,0:42:56,0:48:11,0:57:01,1:26:28,5:28:23,2627,3000,2576,2891,3421,5188,19703,Daniela Silva,Portugal,74,exact_norm,1.0,Daniela Silva,Portugal
+65,Lara Geppert,Germany,0:37:44,0:55:16,0:43:53,0:44:56,0:58:45,1:28:13,5:28:47,2264,3316,2633,2696,3525,5293,19727,Lara Geppert,Germany,73,exact_norm,1.0,Lara Geppert,Germany
+66,Roselien Lapon,Belgium,0:44:05,0:50:40,0:43:53,0:52:02,0:54:29,1:23:41,5:28:50,2645,3040,2633,3122,3269,5021,19730,Roselien Lapon,Belgium,151,exact_norm,1.0,Roselien Lapon,Belgium
+67,Stefan Enzler,Switzerland,0:44:25,0:51:06,0:41:30,0:42:51,0:56:11,1:34:10,5:30:13,2665,3066,2490,2571,3371,5650,19813,Stefan Enzler,Switzerland,71,exact_norm,1.0,Stefan Enzler,Switzerland
+68,Hrefna Guðlaugardóttir,Iceland,0:45:50,0:49:44,0:43:04,0:48:15,0:52:24,1:31:15,5:30:32,2750,2984,2584,2895,3144,5475,19832,Hrefna Guðlaugardóttir,Iceland,36,exact_norm,1.0,Hrefna Guðlaugardóttir,Iceland
+69,Freja Davidsson Bremborg,Sweden,0:44:57,0:51:32,0:43:15,0:47:34,0:55:18,1:28:14,5:30:50,2697,3092,2595,2854,3318,5294,19850,Freja Davidsson Bremborg,Sweden,72,exact_norm,1.0,Freja Davidsson Bremborg,Sweden
+70,Jessica Streitz,USA,0:46:19,0:52:22,0:42:46,0:47:37,0:51:52,1:30:15,5:31:11,2779,3142,2566,2857,3112,5415,19871,Jessica Streitz,USA,56,exact_norm,1.0,Jessica Streitz,USA
+71,David Adamič,Slovenia,0:40:56,0:51:10,0:43:59,0:44:52,0:54:47,1:36:00,5:31:44,2456,3070,2639,2692,3287,5760,19904,David Adamič,Slovenia,100,exact_norm,1.0,David Adamič,Slovenia
+72,Inga Strukčinskaitė,Lithuania,0:44:42,0:53:06,0:43:05,0:50:55,0:54:54,1:25:04,5:31:46,2682,3186,2585,3055,3294,5104,19906,Inga Strukčinskaitė,Lithuania,58,exact_norm,1.0,Inga Strukčinskaitė,Lithuania
+73,Charlotte Reitsema,Netherlands,0:42:39,0:51:14,0:42:03,0:48:59,0:56:24,1:31:20,5:32:39,2559,3074,2523,2939,3384,5480,19959,Charlotte Reitsema,Netherlands,57,exact_norm,1.0,Charlotte Reitsema,Netherlands
+74,Eirik Liane,Norway,0:50:35,0:48:08,0:43:55,0:45:45,0:57:58,1:26:25,5:32:46,3035,2888,2635,2745,3478,5185,19966,Eirik Liane,Norway,46,exact_norm,1.0,Eirik Liane,Norway
+75,Maja Jurjevčič Tržan,Slovenia,0:41:48,0:53:24,0:41:48,0:47:25,0:54:13,1:34:30,5:33:08,2508,3204,2508,2845,3253,5670,19988,Maja Jurjevčič Tržan,Slovenia,128,exact_norm,1.0,Maja Jurjevčič Tržan,Slovenia
+76,Jasmine Lambert,USA,0:42:48,0:54:34,0:41:10,0:44:10,0:57:08,1:34:05,5:33:55,2568,3274,2470,2650,3428,5645,20035,Jasmine Lambert,USA,50,exact_norm,1.0,Jasmine Lambert,USA
+77,Sandra Tor,Sweden,0:45:20,0:51:14,0:44:44,0:49:45,0:56:02,1:27:19,5:34:24,2720,3074,2684,2985,3362,5239,20064,Sandra Tor,Sweden,86,exact_norm,1.0,Sandra Tor,Sweden
+78,Ellen Sinot,Netherlands,0:46:37,0:51:54,0:44:14,0:49:51,0:52:42,1:29:16,5:34:34,2797,3114,2654,2991,3162,5356,20074,Ellen Sinot,Netherlands,33,exact_norm,1.0,Ellen Sinot,Netherlands
+79,Mariana Mendes,Portugal,0:44:53,0:49:37,0:44:51,0:50:04,0:53:35,1:32:30,5:35:30,2693,2977,2691,3004,3215,5550,20130,Mariana Mendes,Portugal,39,exact_norm,1.0,Mariana Mendes,Portugal
+80,Cecile Bruder,France,0:40:37,0:54:23,0:49:53,0:44:13,1:01:14,1:26:20,5:36:40,2437,3263,2993,2653,3674,5180,20200,Cecile Bruder,France,80,exact_norm,1.0,Cecile Bruder,France
+81,Rhianna Eriksen,Australia,0:46:13,0:52:18,0:43:19,0:48:36,0:52:51,1:33:25,5:36:42,2773,3138,2599,2916,3171,5605,20202,Rhianna Eriksen,Australia,29,exact_norm,1.0,Rhianna Eriksen,Australia
+82,Karen Kavett,USA,0:42:46,0:52:37,0:46:08,0:46:37,1:02:39,1:26:55,5:37:42,2566,3157,2768,2797,3759,5215,20262,Karen Kavett,USA,148,exact_norm,1.0,Karen Kavett,USA
+83,Maja Pukl,Slovenia,0:42:37,0:51:36,0:44:38,0:49:48,0:54:49,1:36:05,5:39:33,2557,3096,2678,2988,3289,5765,20373,Maja Pukl,Slovenia,90,exact_norm,1.0,Maja Pukl,Slovenia
+84,Stefanie König,Germany,0:43:50,0:50:12,0:44:14,0:50:08,0:58:55,1:32:15,5:39:34,2630,3012,2654,3008,3535,5535,20374,Stefanie König,Germany,164,exact_norm,1.0,Stefanie König,Germany
+85,Anneroos Everts,Netherlands,0:47:08,0:50:13,0:47:08,0:55:26,0:55:40,1:24:09,5:39:44,2828,3013,2828,3326,3340,5049,20384,Anneroos Everts,Netherlands,126,exact_norm,1.0,Anneroos Everts,Netherlands
+86,Jörn Schrieber,Germany,0:44:28,0:50:17,0:43:51,0:50:30,0:55:15,1:36:50,5:41:11,2668,3017,2631,3030,3315,5810,20471,Jörn Schrieber,Germany,129,exact_norm,1.0,Jörn Schrieber,Germany
+87,Elien Verhelst,Belgium,0:44:39,0:53:13,0:44:22,0:46:59,1:00:27,1:33:20,5:43:00,2679,3193,2662,2819,3627,5600,20580,Elien Verhelst,Belgium,104,exact_norm,1.0,Elien Verhelst,Belgium
+88,Mona Staudinger,Germany,0:41:30,0:53:32,0:42:27,0:52:05,0:57:43,1:36:55,5:44:12,2490,3212,2547,3125,3463,5815,20652,Mona Staudinger,Germany,112,exact_norm,1.0,Mona Staudinger,Germany
+89,Feifei Xue,USA,0:48:17,0:54:03,0:44:53,0:50:43,0:53:38,1:34:05,5:45:39,2897,3243,2693,3043,3218,5645,20739,Feifei Xue,USA,122,exact_norm,1.0,Feifei Xue,USA
+90,Maud Dias,USA,0:47:06,0:52:22,0:48:37,0:48:50,0:53:33,1:36:00,5:46:28,2826,3142,2917,2930,3213,5760,20788,Maud Dias,USA,120,exact_norm,1.0,Maud Dias,USA
+91,Olivia Waltz,Denmark,0:43:57,0:52:30,0:44:17,0:45:20,1:05:49,1:36:10,5:48:03,2637,3150,2657,2720,3949,5770,20883,Olivia Waltz,Denmark,61,exact_norm,1.0,Olivia Waltz,Denmark
+92,Patrick Inniger,Switzerland,0:44:59,0:52:53,0:45:20,0:52:33,1:00:10,1:33:35,5:49:30,2699,3173,2720,3153,3610,5615,20970,Patrick Inniger,Switzerland,132,exact_norm,1.0,Patrick Inniger,Switzerland
+93,Veronica Nes,Norway,0:41:52,0:52:08,0:45:31,0:54:59,1:00:56,1:34:35,5:50:01,2512,3128,2731,3299,3656,5675,21001,Veronica Nes,Norway,144,exact_norm,1.0,Veronica Nes,Norway
+94,Ellen Forster,Australia,0:47:40,0:56:45,0:49:07,0:53:10,0:56:56,1:26:37,5:50:15,2860,3405,2947,3190,3416,5197,21015,Ellen Forster,Australia,101,exact_norm,1.0,Ellen Forster,Australia
+95,Adam Gray,Canada,0:50:16,0:57:14,0:45:54,0:49:28,1:02:37,1:26:30,5:51:59,3016,3434,2754,2968,3757,5190,21119,Adam Gray,Canada,107,exact_norm,1.0,Adam Gray,Canada
+96,Jana Ebner,Germany,0:43:19,0:50:09,0:49:35,0:50:45,1:04:31,1:34:10,5:52:29,2599,3009,2975,3045,3871,5650,21149,Jana Ebner,Germany,137,exact_norm,1.0,Jana Ebner,Germany
+97,Selma Kristersson,Sweden,0:47:38,0:50:42,0:43:36,0:49:25,0:59:33,1:42:50,5:53:44,2858,3042,2616,2965,3573,6170,21224,Selma Kristersson,Sweden,91,exact_norm,1.0,Selma Kristersson,Sweden
+98,Bruno Fernandes,Portugal,0:47:43,0:53:10,0:44:39,0:47:53,1:03:05,1:38:15,5:54:45,2863,3190,2679,2873,3785,5895,21285,Bruno Fernandes,Portugal,168,exact_norm,1.0,Bruno Fernandes,Portugal
+99,Justyna Ksiezyc,Poland,0:45:22,0:56:16,0:45:36,0:53:25,0:56:47,1:37:40,5:55:06,2722,3376,2736,3205,3407,5860,21306,Justyna Ksiezyc,Poland,85,exact_norm,1.0,Justyna Ksiezyc,Poland
+100,Irene Rodríguez Merchante,Spain,0:43:23,0:54:40,0:47:22,0:53:14,1:03:27,1:33:15,5:55:21,2603,3280,2842,3194,3807,5595,21321,Irene Rodríguez Merchante,Spain,67,exact_norm,1.0,Irene Rodríguez Merchante,Spain
+101,Ana Sever,Slovenia,0:48:17,0:56:06,0:45:30,0:51:24,0:58:41,1:36:25,5:56:23,2897,3366,2730,3084,3521,5785,21383,Ana Sever,Slovenia,82,exact_norm,1.0,Ana Sever,Slovenia
+102,Hanna Karlsson,Sweden,0:46:55,0:54:55,0:47:39,0:51:26,0:58:21,1:37:50,5:57:06,2815,3295,2859,3086,3501,5870,21426,Hanna Karlsson,Sweden,38,exact_norm,1.0,Hanna Karlsson,Sweden
+103,Saphira Kamies,Netherlands,0:47:57,0:55:09,0:46:42,0:48:10,0:56:54,1:42:50,5:57:42,2877,3309,2802,2890,3414,6170,21462,Saphira Kamies,Netherlands,105,exact_norm,1.0,Saphira Kamies,Netherlands
+104,Ruby Lavender,United Kingdom,0:46:48,0:54:33,0:43:44,0:50:36,1:00:26,1:41:40,5:57:47,2808,3273,2624,3036,3626,6100,21467,Ruby Lavender,United Kingdom,81,exact_norm,1.0,Ruby Lavender,United Kingdom
+105,Michaela Švorcová,Czech Republic,0:46:18,0:53:14,0:48:28,0:50:53,1:01:17,1:37:45,5:57:55,2778,3194,2908,3053,3677,5865,21475,Michaela Švorcová,Czech Republic,124,exact_norm,1.0,Michaela Švorcová,Czech Republic
+106,Denise Beck,Germany,0:51:42,0:55:48,0:46:12,0:52:15,0:55:58,1:36:10,5:58:05,3102,3348,2772,3135,3358,5770,21485,Denise Beck,Germany,131,exact_norm,1.0,Denise Beck,Germany
+107,Emilia Liberman,Finland,0:50:01,0:56:44,0:49:26,0:55:08,1:01:28,1:27:20,6:00:07,3001,3404,2966,3308,3688,5240,21607,Emilia Liberman,Finland,62,exact_norm,1.0,Emilia Liberman,Finland
+108,Martin Petráž,Czech Republic,0:42:25,0:52:34,0:47:51,0:52:48,1:06:13,1:39:40,6:01:31,2545,3154,2871,3168,3973,5980,21691,Martin Petráž,Czech Republic,76,exact_norm,1.0,Martin Petráž,Czech Republic
+109,Lucca Korsgaard Grøn,Denmark,0:46:42,0:55:43,0:54:37,0:48:14,0:57:52,1:39:05,6:02:13,2802,3343,3277,2894,3472,5945,21733,Lucca Korsgaard Grøn,Denmark,95,exact_norm,1.0,Lucca Korsgaard Grøn,Denmark
+109,Dany Susanna Haupt,Germany,0:44:18,1:01:01,0:45:54,0:53:32,1:02:48,1:34:40,6:02:13,2658,3661,2754,3212,3768,5680,21733,Dany Susanna Haupt,Germany,224,exact_norm,1.0,Dany Susanna Haupt,Germany
+111,Elina Pallas,Finland,0:45:41,0:53:54,0:49:17,0:52:43,0:59:52,1:41:10,6:02:37,2741,3234,2957,3163,3592,6070,21757,Elina Pallas,Finland,195,exact_norm,1.0,Elina Pallas,Finland
+112,Jessica Rottenbacher,USA,0:45:42,0:55:30,0:43:59,0:54:34,1:04:42,1:39:30,6:03:57,2742,3330,2639,3274,3882,5970,21837,Jessica Rottenbacher,USA,116,exact_norm,1.0,Jessica Rottenbacher,USA
+113,Jesse Jansen,Netherlands,0:48:35,0:53:04,0:48:38,0:44:40,1:11:57,1:37:55,6:04:49,2915,3184,2918,2680,4317,5875,21889,Jesse Jansen,Netherlands,89,exact_norm,1.0,Jesse Jansen,Netherlands
+114,Ülle Külaots,Estonia,0:48:23,0:58:22,0:48:02,0:52:49,1:02:20,1:34:55,6:04:51,2903,3502,2882,3169,3740,5695,21891,Ülle Külaots,Estonia,92,exact_norm,1.0,Ülle Külaots,Estonia
+115,Rebecca Streitz,USA,0:49:38,0:59:27,0:50:25,0:51:10,0:57:08,1:37:25,6:05:13,2978,3567,3025,3070,3428,5845,21913,Rebecca Streitz,USA,143,exact_norm,1.0,Rebecca Streitz,USA
+116,Agnes Nappus,Finland,0:50:24,0:52:49,0:43:32,0:58:38,1:00:55,1:39:05,6:05:23,3024,3169,2612,3518,3655,5945,21923,Agnes Nappus,Finland,152,exact_norm,1.0,Agnes Nappus,Finland
+117,Tuule Müürsepp,Estonia,0:49:18,0:51:39,0:48:15,0:56:46,1:06:27,1:33:15,6:05:40,2958,3099,2895,3406,3987,5595,21940,Tuule Müürsepp,Estonia,165,exact_norm,1.0,Tuule Müürsepp,Estonia
+118,Lena Malinowski,Germany,0:50:36,0:54:03,0:43:41,0:52:28,1:05:07,1:40:05,6:06:00,3036,3243,2621,3148,3907,6005,21960,Lena Malinowski,Germany,114,exact_norm,1.0,Lena Malinowski,Germany
+119,Simona Mikešová,Czech Republic,0:48:07,0:55:03,0:49:00,0:51:21,1:01:06,1:41:50,6:06:27,2887,3303,2940,3081,3666,6110,21987,Simona Mikešová,Czech Republic,87,exact_norm,1.0,Simona Mikešová,Czech Republic
+119,Veronika Gallert,Germany,0:45:28,0:55:16,0:52:24,0:49:47,1:03:07,1:40:25,6:06:27,2728,3316,3144,2987,3787,6025,21987,Veronika Gallert,Germany,139,exact_norm,1.0,Veronika Gallert,Germany
+121,Sandra Berndt,Germany,0:43:13,0:52:17,0:45:49,0:58:49,1:07:10,1:39:20,6:06:38,2593,3137,2749,3529,4030,5960,21998,Sandra Berndt,Germany,162,exact_norm,1.0,Sandra Berndt,Germany
+122,Ashley Bromiley,USA,0:48:28,0:58:48,0:50:17,0:55:07,0:55:31,1:39:15,6:07:26,2908,3528,3017,3307,3331,5955,22046,Ashley Bromiley,USA,277,exact_norm,1.0,Ashley Bromiley,USA
+123,Stefan Groh,Germany,0:54:20,0:52:05,0:46:15,0:52:11,1:03:16,1:42:00,6:10:07,3260,3125,2775,3131,3796,6120,22207,Stefan Groh,Germany,135,exact_norm,1.0,Stefan Groh,Germany
+124,Charlotte Kirby,New Zealand,0:51:34,0:55:46,0:48:17,0:56:12,1:00:06,1:38:25,6:10:20,3094,3346,2897,3372,3606,5905,22220,Charlotte Kirby,New Zealand,103,exact_norm,1.0,Charlotte Kirby,New Zealand
+125,Ida Elzén,Sweden,0:47:40,1:03:11,0:48:21,0:51:23,0:58:32,1:41:40,6:10:47,2860,3791,2901,3083,3512,6100,22247,Ida Elzén,Sweden,43,exact_norm,1.0,Ida Elzén,Sweden
+126,Elena Kovačević,Croatia,0:46:21,0:58:40,0:52:51,0:53:36,1:02:09,1:38:05,6:11:42,2781,3520,3171,3216,3729,5885,22302,Elena Kovačević,Croatia,298,exact_norm,1.0,Elena Kovačević,Croatia
+127,Tekla Rozs,Hungary,0:51:32,1:00:02,0:52:08,0:48:46,1:06:36,1:34:20,6:13:24,3092,3602,3128,2926,3996,5660,22404,Tekla Rozs,Hungary,192,exact_norm,1.0,Tekla Rozs,Hungary
+128,Megs Drinkwater,Australia,0:52:32,0:59:10,0:49:00,0:55:00,1:00:52,1:37:30,6:14:04,3152,3550,2940,3300,3652,5850,22444,Megs Drinkwater,Australia,106,exact_norm,1.0,Megs Drinkwater,Australia
+129,Kinga Wieczorek-Czaja,Poland,0:48:17,1:00:18,0:49:41,0:52:03,1:05:10,1:40:00,6:15:29,2897,3618,2981,3123,3910,6000,22529,Kinga Wieczorek-Czaja,Poland,243,exact_norm,1.0,Kinga Wieczorek-Czaja,Poland
+130,Jessica Musser,USA,0:47:10,0:56:09,0:52:37,0:59:17,1:03:04,1:37:45,6:16:02,2830,3369,3157,3557,3784,5865,22562,Jessica Musser,USA,247,exact_norm,1.0,Jessica Musser,USA
+131,Madara Stacevica,Latvia,0:53:53,0:56:35,0:50:39,0:55:27,1:02:05,1:38:00,6:16:39,3233,3395,3039,3327,3725,5880,22599,Madara Stacevica,Latvia,167,exact_norm,1.0,Madara Stacevica,Latvia
+132,Jane Stine,USA,0:51:35,1:00:19,0:54:16,0:54:52,0:58:05,1:39:10,6:18:17,3095,3619,3256,3292,3485,5950,22697,Jane Stine,USA,130,exact_norm,1.0,Jane Stine,USA
+133,Stefanie Kapfer,Germany,0:50:03,0:56:38,0:50:53,0:58:47,1:03:20,1:38:50,6:18:31,3003,3398,3053,3527,3800,5930,22711,Stefanie Kapfer,Germany,157,exact_norm,1.0,Stefanie Kapfer,Germany
+134,Jacques Scheepers,South africa,0:54:13,0:59:16,0:51:59,0:56:16,1:00:01,1:37:45,6:19:30,3253,3556,3119,3376,3601,5865,22770,Jacques Scheepers,South Africa,142,exact_norm,1.0,Jacques Scheepers,South Africa
+135,Mojca Zadravec,Slovenia,0:49:04,0:58:39,0:50:14,1:00:08,1:06:16,1:35:45,6:20:06,2944,3519,3014,3608,3976,5745,22806,Mojca Zadravec,Slovenia,303,exact_norm,1.0,Mojca Zadravec,Slovenia
+136,Calie Curran,USA,0:46:55,1:04:51,0:52:08,0:54:49,1:08:55,1:33:00,6:20:38,2815,3891,3128,3289,4135,5580,22838,Calie Curran,USA,118,exact_norm,1.0,Calie Curran,USA
+137,Smilla Andersson,Sweden,0:57:46,1:00:09,0:45:56,0:54:50,1:02:26,1:40:10,6:21:17,3466,3609,2756,3290,3746,6010,22877,Smilla Andersson,Sweden,49,exact_norm,1.0,Smilla Andersson,Sweden
+138,SJ Bodell,United Kingdom,1:05:12,0:53:08,0:47:41,0:56:57,1:00:45,1:40:10,6:23:53,3912,3188,2861,3417,3645,6010,23033,SJ Bodell,United Kingdom,266,exact_norm,1.0,SJ Bodell,United Kingdom
+139,Maria Endrinal Acicolla,Spain,0:55:13,0:55:53,0:49:31,0:57:06,1:03:06,1:43:35,6:24:24,3313,3353,2971,3426,3786,6215,23064,Maria Endrinal Acicolla,Spain,170,exact_norm,1.0,Maria Endrinal Acicolla,Spain
+140,Nicole Teuscher,Germany,0:44:21,0:56:08,0:54:18,1:01:57,1:06:12,1:41:40,6:24:36,2661,3368,3258,3717,3972,6100,23076,Nicole Teuscher,Germany,63,exact_norm,1.0,Nicole Teuscher,Germany
+141,Robert Atkinson,Sweden,0:54:19,0:56:02,0:50:48,0:57:31,1:05:39,1:41:35,6:25:54,3259,3362,3048,3451,3939,6095,23154,Robert Atkinson,Sweden,54,exact_norm,1.0,Robert Atkinson,Sweden
+142,Sara Kristersson,Sweden,0:48:35,1:00:39,0:48:34,0:59:17,1:04:43,1:44:20,6:26:08,2915,3639,2914,3557,3883,6260,23168,Sara Kristersson,Sweden,88,exact_norm,1.0,Sara Kristersson,Sweden
+143,Barbara Klein,Germany,0:47:45,0:59:17,0:56:20,0:54:41,1:09:51,1:38:20,6:26:14,2865,3557,3380,3281,4191,5900,23174,Barbara Klein,Germany,227,exact_norm,1.0,Barbara Klein,Germany
+144,Tereza Vitaskova,Czech Republic,0:51:59,1:02:24,0:52:20,0:54:12,1:08:55,1:37:30,6:27:20,3119,3744,3140,3252,4135,5850,23240,Tereza Vitaskova,Czech Republic,271,exact_norm,1.0,Tereza Vitaskova,Czech Republic
+145,Mária Rusňáková,Slovakia,0:46:01,0:59:40,0:53:05,1:01:39,1:05:56,1:41:25,6:27:46,2761,3580,3185,3699,3956,6085,23266,Mária Rusňáková,Slovakia,75,exact_norm,1.0,Mária Rusňáková,Slovakia
+146,Alina Schering,Germany,0:44:09,0:59:49,0:51:59,0:52:18,1:08:45,1:50:50,6:27:50,2649,3589,3119,3138,4125,6650,23270,Alina Schering,Germany,115,exact_norm,1.0,Alina Schering,Germany
+147,Emma Brooksbank,United Kingdom,0:51:14,1:00:27,0:48:14,0:57:25,1:06:32,1:44:30,6:28:22,3074,3627,2894,3445,3992,6270,23302,Emma Brooksbank,United Kingdom,209,exact_norm,1.0,Emma Brooksbank,United Kingdom
+148,Julia Schnell,Germany,0:53:24,1:01:26,0:55:09,0:49:43,1:09:06,1:39:40,6:28:28,3204,3686,3309,2983,4146,5980,23308,Julia Schnell,Germany,149,exact_norm,1.0,Julia Schnell,Germany
+149,Jana Kubickova,Czech Republic,0:51:11,0:55:27,0:49:56,0:56:43,1:09:12,1:46:00,6:28:29,3071,3327,2996,3403,4152,6360,23309,Jana Kubickova,Czech Republic,78,exact_norm,1.0,Jana Kubickova,Czech Republic
+150,Olivier Pinatel,France,0:57:52,1:00:00,0:55:56,0:49:04,1:00:03,1:45:55,6:28:50,3472,3600,3356,2944,3603,6355,23330,Olivier Pinatel,France,189,exact_norm,1.0,Olivier Pinatel,France
+151,Annabelle Kuprian,Germany,0:47:54,0:58:58,0:49:50,1:00:20,1:11:17,1:41:30,6:29:49,2874,3538,2990,3620,4277,6090,23389,Annabelle Kuprian,Germany,193,exact_norm,1.0,Annabelle Kuprian,Germany
+152,Stijn Hudders,Belgium,0:52:22,0:54:32,0:51:33,1:00:30,1:10:28,1:40:30,6:29:55,3142,3272,3093,3630,4228,6030,23395,Stijn Hudders,Belgium,102,exact_norm,1.0,Stijn Hudders,Belgium
+153,Sara Rickli Escudero,Spain,0:52:10,0:59:19,0:50:39,1:00:00,1:02:38,1:45:30,6:30:16,3130,3559,3039,3600,3758,6330,23416,Sara Rickli Escudero,Spain,175,exact_norm,1.0,Sara Rickli Escudero,Spain
+154,Andrew Bradburn,USA,0:51:35,0:56:59,0:51:11,1:08:38,1:02:29,1:39:45,6:30:37,3095,3419,3071,4118,3749,5985,23437,Andrew Bradburn,USA,206,exact_norm,1.0,Andrew Bradburn,USA
+155,Frida Westler,Sweden,0:54:27,1:01:00,0:53:11,0:57:00,1:06:20,1:40:50,6:32:48,3267,3660,3191,3420,3980,6050,23568,Frida Westler,Sweden,96,exact_norm,1.0,Frida Westler,Sweden
+156,Zoe Engels,Germany,0:54:29,0:59:24,0:53:50,0:54:44,1:02:40,1:48:50,6:33:57,3269,3564,3230,3284,3760,6530,23637,Zoe Engels,Germany,278,exact_norm,1.0,Zoe Engels,Germany
+157,Cecilie Krebs Johansen,Denmark,0:49:16,1:02:56,0:53:22,0:59:53,1:09:19,1:39:15,6:34:01,2956,3776,3202,3593,4159,5955,23641,Cecilie Krebs Johansen,Denmark,83,exact_norm,1.0,Cecilie Krebs Johansen,Denmark
+158,Cristina López Rodríguez,Spain,0:52:09,0:59:23,0:55:25,0:54:52,1:12:05,1:40:45,6:34:39,3129,3563,3325,3292,4325,6045,23679,Cristina López Rodríguez,Spain,252,exact_norm,1.0,Cristina López Rodríguez,Spain
+159,Denise Stimmelmayr,Germany,0:55:33,0:54:43,0:49:42,1:05:28,1:05:27,1:43:50,6:34:43,3333,3283,2982,3928,3927,6230,23683,Denise Stimmelmayr,Germany,153,exact_norm,1.0,Denise Stimmelmayr,Germany
+160,Tuuli Pyy,Finland,0:53:06,1:00:45,0:53:45,1:01:03,1:08:47,1:37:25,6:34:51,3186,3645,3225,3663,4127,5845,23691,Tuuli Pyy,Finland,141,exact_norm,1.0,Tuuli Pyy,Finland
+161,Madelin Schumacher,Switzerland,0:56:44,1:00:12,0:50:58,0:58:54,1:05:13,1:42:55,6:34:56,3404,3612,3058,3534,3913,6175,23696,Madelin Schumacher,Switzerland,155,exact_norm,1.0,Madelin Schumacher,Switzerland
+162,Nadia Galaske,Indonesia,0:49:05,1:00:01,0:54:23,1:00:59,1:08:35,1:42:05,6:35:08,2945,3601,3263,3659,4115,6125,23708,Nadia Galaske,Indonesia,249,exact_norm,1.0,Nadia Galaske,Indonesia
+163,Tammy McLeod,USA,0:51:16,1:02:04,0:56:24,0:53:36,1:04:39,1:47:10,6:35:09,3076,3724,3384,3216,3879,6430,23709,Tammy McLeod,USA,119,exact_norm,1.0,Tammy McLeod,USA
+164,Daniela Wartini,Germany,0:50:18,1:00:14,0:57:11,0:58:05,1:10:36,1:38:55,6:35:19,3018,3614,3431,3485,4236,5935,23719,Daniela Wartini,Germany,174,exact_norm,1.0,Daniela Wartini,Germany
+165,Carolin Kraft,Germany,0:51:31,1:05:27,0:54:48,0:59:13,1:04:16,1:40:10,6:35:25,3091,3927,3288,3553,3856,6010,23725,Carolin Kraft,Germany,186,exact_norm,1.0,Carolin Kraft,Germany
+166,Saskia Rohtla,Estonia,0:52:26,0:57:50,0:58:43,0:58:57,1:05:36,1:41:55,6:35:27,3146,3470,3523,3537,3936,6115,23727,Saskia Rohtla,Estonia,187,exact_norm,1.0,Saskia Rohtla,Estonia
+167,Milka Malvari,Finland,0:45:36,1:07:24,0:52:33,1:07:49,1:06:43,1:35:35,6:35:40,2736,4044,3153,4069,4003,5735,23740,Milka Malvari,Finland,244,exact_norm,1.0,Milka Malvari,Finland
+168,Elizabeth Walters,USA,0:54:23,0:59:24,0:53:58,0:57:57,1:07:26,1:43:15,6:36:23,3263,3564,3238,3477,4046,6195,23783,Elizabeth Walters,USA,190,exact_norm,1.0,Elizabeth Walters,USA
+169,Natalia Mazurczak,Poland,0:52:30,1:04:40,0:51:20,0:58:49,1:08:06,1:41:40,6:37:05,3150,3880,3080,3529,4086,6100,23825,Natalia Mazurczak,Poland,306,exact_norm,1.0,Natalia Mazurczak,Poland
+170,Tanja Pretnar,Slovenia,0:49:39,1:01:50,0:56:49,0:58:08,1:07:03,1:43:45,6:37:14,2979,3710,3409,3488,4023,6225,23834,Tanja Pretnar,Slovenia,172,exact_norm,1.0,Tanja Pretnar,Slovenia
+171,Carlos Durá Costa,Spain,0:52:11,0:56:26,0:49:56,0:59:20,1:13:26,1:47:35,6:38:54,3131,3386,2996,3560,4406,6455,23934,Carlos Durá Costa,Spain,65,exact_norm,1.0,Carlos Durá Costa,Spain
+172,Andrew Paul,USA,0:53:25,0:57:13,0:51:12,1:08:40,1:08:43,1:40:05,6:39:18,3205,3433,3072,4120,4123,6005,23958,Andrew Paul,USA,265,exact_norm,1.0,Andrew Paul,USA
+173,Merilin Jegers,Estonia,0:51:10,1:02:22,0:48:28,1:05:08,1:12:22,1:41:25,6:40:55,3070,3742,2908,3908,4342,6085,24055,Merilin Jegers,Estonia,191,exact_norm,1.0,Merilin Jegers,Estonia
+174,Nora Vinkler,Hungary,0:53:12,0:57:54,0:55:57,1:04:24,1:11:31,1:39:20,6:42:18,3192,3474,3357,3864,4291,5960,24138,Nora Vinkler,Hungary,194,exact_norm,1.0,Nora Vinkler,Hungary
+175,Jan Škoch,Czech Republic,0:51:36,1:03:18,0:55:07,0:58:17,1:13:27,1:42:05,6:43:50,3096,3798,3307,3497,4407,6125,24230,Jan Škoch,Czech Republic,299,exact_norm,1.0,Jan Škoch,Czech Republic
+176,Jana Kučerová,Slovakia,0:58:59,1:09:40,0:50:42,1:00:31,1:04:13,1:42:00,6:46:05,3539,4180,3042,3631,3853,6120,24365,Jana Kučerová,Slovakia,269,exact_norm,1.0,Jana Kučerová,Slovakia
+177,Makayla Malloy,USA,0:55:13,1:00:53,0:58:07,1:05:32,1:08:41,1:39:00,6:47:26,3313,3653,3487,3932,4121,5940,24446,Makayla Malloy,USA,133,exact_norm,1.0,Makayla Malloy,USA
+178,Susanne Wessely,Germany,0:52:37,1:08:59,0:49:48,1:03:41,1:06:36,1:46:05,6:47:46,3157,4139,2988,3821,3996,6365,24466,Susanne Wessely,Germany,169,exact_norm,1.0,Susanne Wessely,Germany
+179,Nina Turnšek,Slovenia,0:57:06,0:57:12,0:53:13,1:03:44,1:15:40,1:41:15,6:48:10,3426,3432,3193,3824,4540,6075,24490,Nina Turnšek,Slovenia,208,exact_norm,1.0,Nina Turnšek,Slovenia
+180,Janine Luthi,Germany,0:53:22,0:58:44,0:56:25,1:00:12,1:12:33,1:48:00,6:49:16,3202,3524,3385,3612,4353,6480,24556,Janine Luthi,Germany,228,exact_norm,1.0,Janine Luthi,Germany
+181,Angela Walzer,Germany,0:57:19,1:03:54,0:54:27,0:58:48,1:12:06,1:42:50,6:49:24,3439,3834,3267,3528,4326,6170,24564,Angela Walzer,Germany,214,exact_norm,1.0,Angela Walzer,Germany
+182,Tea Tušar,Slovenia,0:51:30,1:08:11,0:55:50,0:55:14,1:18:50,1:39:55,6:49:30,3090,4091,3350,3314,4730,5995,24570,Tea Tušar,Slovenia,326,exact_norm,1.0,Tea Tušar,Slovenia
+183,Bethanie Cicero,United Kingdom,0:52:35,1:02:58,0:57:59,0:59:58,1:10:41,1:46:05,6:50:16,3155,3778,3479,3598,4241,6365,24616,Bethanie Cicero,United Kingdom,222,exact_norm,1.0,Bethanie Cicero,United Kingdom
+184,Magriet Mey,South Africa,0:58:03,1:00:53,0:55:02,1:00:51,1:06:32,1:49:30,6:50:51,3483,3653,3302,3651,3992,6570,24651,Magriet Mey,South Africa,287,exact_norm,1.0,Magriet Mey,South Africa
+185,Ann-Kathrin Lindemann,Germany,0:52:00,1:04:40,0:55:44,1:02:00,1:09:48,1:47:50,6:52:02,3120,3880,3344,3720,4188,6470,24722,Ann-Kathrin Lindemann,Germany,229,exact_norm,1.0,Ann-Kathrin Lindemann,Germany
+186,Laura Johns,France,0:55:41,1:04:52,0:57:19,1:02:35,1:10:42,1:41:25,6:52:34,3341,3892,3439,3755,4242,6085,24754,Laura Johns,France,248,exact_norm,1.0,Laura Johns,France
+187,Kinsey Keltz,USA,0:55:39,0:57:19,0:56:15,1:04:25,1:11:00,1:48:25,6:53:03,3339,3439,3375,3865,4260,6505,24783,Kinsey Keltz,USA,284,exact_norm,1.0,Kinsey Keltz,USA
+188,José Manuel Corbí Garrido,Spain,0:59:33,1:01:56,0:56:32,0:59:29,1:09:25,1:46:40,6:53:35,3573,3716,3392,3569,4165,6400,24815,José Manuel Corbí Garrido,Spain,154,exact_norm,1.0,José Manuel Corbí Garrido,Spain
+189,Eszter Kárpáti,Hungary,0:50:45,1:03:06,0:58:42,1:08:16,1:05:50,1:47:10,6:53:49,3045,3786,3522,4096,3950,6430,24829,Eszter Kárpáti,Hungary,301,exact_norm,1.0,Eszter Kárpáti,Hungary
+190,Rosa Marquardt Frederiksen,Denmark,0:53:48,1:13:55,0:59:40,1:04:01,1:01:16,1:41:25,6:54:05,3228,4435,3580,3841,3676,6085,24845,Rosa Marquardt Frederiksen,Denmark,93,exact_norm,1.0,Rosa Marquardt Frederiksen,Denmark
+191,Mantas Olsauskas,Lithuania,0:54:38,1:03:32,0:53:36,1:05:03,1:14:06,1:44:15,6:55:10,3278,3812,3216,3903,4446,6255,24910,Mantas Olsauskas,Lithuania,225,exact_norm,1.0,Mantas Olsauskas,Lithuania
+192,Abigail Lawrence,United Kingdom,0:54:01,1:04:58,0:52:07,1:07:45,1:11:27,1:44:55,6:55:13,3241,3898,3127,4065,4287,6295,24913,Abigail Lawrence,United Kingdom,289,exact_norm,1.0,Abigail Lawrence,United Kingdom
+193,Heather Mueller,USA,0:59:32,1:02:11,0:55:24,1:05:22,1:10:09,1:42:55,6:55:33,3572,3731,3324,3922,4209,6175,24933,Heather Mueller,USA,179,exact_norm,1.0,Heather Mueller,USA
+194,Cameron Mackereth,Canada,0:54:05,1:10:08,1:01:20,1:01:45,1:06:51,1:42:20,6:56:29,3245,4208,3680,3705,4011,6140,24989,Cameron Mackereth,Canada,274,exact_norm,1.0,Cameron Mackereth,Canada
+195,Elisa Sein,Estonia,0:58:12,1:07:48,0:55:41,0:58:12,1:10:45,1:46:25,6:57:03,3492,4068,3341,3492,4245,6385,25023,Elisa Sein,Estonia,98,exact_norm,1.0,Elisa Sein,Estonia
+196,Isa Jurriëns,Netherlands,0:53:28,1:12:44,0:55:14,1:04:38,1:05:22,1:47:05,6:58:31,3208,4364,3314,3878,3922,6425,25111,Isa Jurriëns,Netherlands,205,exact_norm,1.0,Isa Jurriëns,Netherlands
+197,Fynn Heintz,Germany,0:56:21,1:01:53,0:54:44,0:59:57,1:12:16,1:54:00,6:59:11,3381,3713,3284,3597,4336,6840,25151,Fynn Heintz,Germany,239,exact_norm,1.0,Fynn Heintz,Germany
+198,Martine Valk,Netherlands,0:58:42,1:02:33,0:58:03,1:02:26,1:11:28,1:46:20,6:59:32,3522,3753,3483,3746,4288,6380,25172,Martine Valk,Netherlands,329,exact_norm,1.0,Martine Valk,Netherlands
+199,Marilis Kallas,Estonia,0:55:58,1:04:18,0:59:43,1:07:17,1:09:55,1:44:05,7:01:16,3358,3858,3583,4037,4195,6245,25276,Marilis Kallas,Estonia,99,exact_norm,1.0,Marilis Kallas,Estonia
+200,Scarlett Granger,United Kingdom,0:59:04,1:00:08,0:56:30,0:59:45,1:17:50,1:48:40,7:01:57,3544,3608,3390,3585,4670,6520,25317,Scarlett Granger,United Kingdom,261,exact_norm,1.0,Scarlett Granger,United Kingdom
+201,Melynda Owens,USA,1:01:30,1:06:34,0:57:44,1:06:30,1:07:51,1:43:05,7:03:14,3690,3994,3464,3990,4071,6185,25394,Melynda Owens,USA,117,exact_norm,1.0,Melynda Owens,USA
+202,Darya Leylian,USA,0:52:42,1:08:13,0:58:13,1:00:09,1:17:30,1:48:00,7:04:47,3162,4093,3493,3609,4650,6480,25487,Darya Leylian,USA,282,exact_norm,1.0,Darya Leylian,USA
+203,Vroni Börlin-Kostezer,Switzerland,1:00:29,1:05:09,0:53:11,1:11:28,1:07:26,1:48:30,7:06:13,3629,3909,3191,4288,4046,6510,25573,Vroni Börlin-Kostezer,Switzerland,188,exact_norm,1.0,Vroni Börlin-Kostezer,Switzerland
+204,Lynn Everaert,Belgium,0:52:56,1:12:58,0:58:29,1:02:15,1:09:38,1:50:20,7:06:36,3176,4378,3509,3735,4178,6620,25596,Lynn Everaert,Belgium,204,exact_norm,1.0,Lynn Everaert,Belgium
+205,Maria Golova,Independent Neutral,1:00:01,1:07:02,0:56:26,1:04:44,1:11:16,1:48:10,7:07:39,3601,4022,3386,3884,4276,6490,25659,Maria Golova,Independent Neutral,220,exact_norm,1.0,Maria Golova,Independent Neutral
+206,Jukka Sireni,Finland,0:53:15,0:59:19,0:55:43,1:15:25,1:23:30,1:40:35,7:07:47,3195,3559,3343,4525,5010,6035,25667,Jukka Sireni,Finland,267,exact_norm,1.0,Jukka Sireni,Finland
+207,Xiomara Lopez Martinez,Spain,0:52:43,1:03:36,1:02:14,1:02:59,1:17:10,1:49:30,7:08:12,3163,3816,3734,3779,4630,6570,25692,Xiomara Lopez Martinez,Spain,138,exact_norm,1.0,Xiomara Lopez Martinez,Spain
+208,Annika Wiele,Germany,1:02:28,1:07:44,0:51:47,1:03:43,1:14:59,1:48:15,7:08:56,3748,4064,3107,3823,4499,6495,25736,Annika Wiele,Germany,32,exact_norm,1.0,Annika Wiele,Germany
+209,Lina Sakalavičiūtė,Lithuania,1:01:31,1:06:04,0:56:13,1:08:02,1:12:40,1:45:15,7:09:45,3691,3964,3373,4082,4360,6315,25785,Lina Sakalavičiūtė,Lithuania,314,exact_norm,1.0,Lina Sakalavičiūtė,Lithuania
+210,Jessica Henderson,USA,0:58:27,1:10:55,0:58:20,1:01:37,1:11:30,1:49:00,7:09:49,3507,4255,3500,3697,4290,6540,25789,Jessica Henderson,USA,283,exact_norm,1.0,Jessica Henderson,USA
+211,Elizabeth Tashiro,USA,0:55:19,1:11:11,0:58:18,1:10:22,1:09:59,1:45:55,7:11:04,3319,4271,3498,4222,4199,6355,25864,Elizabeth Tashiro,USA,123,exact_norm,1.0,Elizabeth Tashiro,USA
+212,Christine Timms,Australia,1:06:26,1:06:43,0:54:26,1:01:45,1:16:35,1:46:45,7:12:40,3986,4003,3266,3705,4595,6405,25960,Christine Timms,Australia,279,exact_norm,1.0,Christine Timms,Australia
+213,Emanuela Haller,Romania,1:00:35,1:10:20,1:02:03,1:07:51,1:09:08,1:43:05,7:13:02,3635,4220,3723,4071,4148,6185,25982,Emanuela Haller,Romania,180,exact_norm,1.0,Emanuela Haller,Romania
+214,Agata Banaś,Poland,0:54:18,1:07:07,1:06:34,1:02:24,1:13:38,1:50:15,7:14:16,3258,4027,3994,3744,4418,6615,26056,Agata Banaś,Poland,201,exact_norm,1.0,Agata Banaś,Poland
+215,Cristina Roura,Spain,0:58:11,1:05:51,1:02:40,1:07:11,1:18:05,1:43:30,7:15:28,3491,3951,3760,4031,4685,6210,26128,Cristina Roura,Spain,181,exact_norm,1.0,Cristina Roura,Spain
+216,Daniela Höllt,Germany,0:55:17,1:10:10,0:56:38,1:13:55,1:13:39,1:47:00,7:16:39,3317,4210,3398,4435,4419,6420,26199,Daniela Höllt,Germany,241,exact_norm,1.0,Daniela Höllt,Germany
+217,Marika Uustare,Estonia,0:58:39,1:08:31,0:57:33,1:09:30,1:16:20,1:47:00,7:17:33,3519,4111,3453,4170,4580,6420,26253,Marika Uustare,Estonia,296,exact_norm,1.0,Marika Uustare,Estonia
+218,Catherine Luniewski,USA,0:55:46,1:07:47,1:04:35,1:09:39,1:13:57,1:48:20,7:20:04,3346,4067,3875,4179,4437,6500,26404,Catherine Luniewski,USA,215,exact_norm,1.0,Catherine Luniewski,USA
+219,Desiree Pereira,India,1:01:28,1:06:57,1:06:40,1:14:19,1:10:10,1:43:25,7:22:59,3688,4017,4000,4459,4210,6205,26579,Desiree Pereira,India,273,exact_norm,1.0,Desiree Pereira,India
+220,Ana Maria Barros,Brazil,1:04:17,1:10:29,1:01:17,1:12:02,1:14:59,1:40:55,7:23:59,3857,4229,3677,4322,4499,6055,26639,Ana Maria Barros,Brazil,268,exact_norm,1.0,Ana Maria Barros,Brazil
+221,Maria Hakala,Finland,0:53:11,1:07:25,0:59:16,1:09:13,1:23:15,1:52:30,7:24:50,3191,4045,3556,4153,4995,6750,26690,Maria Hakala,Finland,258,exact_norm,1.0,Maria Hakala,Finland
+222,Stella Babian,Germany,0:58:15,1:09:35,0:59:47,1:06:08,1:18:30,1:52:45,7:25:00,3495,4175,3587,3968,4710,6765,26700,Stella Babian,Germany,251,exact_norm,1.0,Stella Babian,Germany
+223,Madalina Elisabeta Hodor,Romania,0:57:11,1:09:55,1:01:55,1:16:15,1:14:30,1:46:10,7:25:56,3431,4195,3715,4575,4470,6370,26756,Madalina Elisabeta Hodor,Romania,202,exact_norm,1.0,Madalina Elisabeta Hodor,Romania
+224,Sarah Wester,Germany,0:58:25,1:08:01,0:58:25,1:11:29,1:18:20,1:52:05,7:26:45,3505,4081,3505,4289,4700,6725,26805,Sarah Wester,Germany,203,exact_norm,1.0,Sarah Wester,Germany
+225,Matthias Gugel,Germany,1:00:35,1:15:30,1:02:22,1:04:44,1:12:56,1:51:15,7:27:22,3635,4530,3742,3884,4376,6675,26842,Matthias Gugel,Germany,111,exact_norm,1.0,Matthias Gugel,Germany
+226,Ruta Zemaityte,Lithuania,1:03:31,1:10:43,0:57:45,1:10:09,1:17:20,1:49:10,7:28:38,3811,4243,3465,4209,4640,6550,26918,Ruta Zemaityte,Lithuania,302,exact_norm,1.0,Ruta Zemaityte,Lithuania
+227,Isabel Urrutia,Canada,1:05:46,1:09:54,0:56:37,1:13:12,1:16:10,1:47:10,7:28:49,3946,4194,3397,4392,4570,6430,26929,Isabel Urrutia,Canada,290,exact_norm,1.0,Isabel Urrutia,Canada
+228,Aaron Madeley,United Kingdom,0:59:14,1:11:45,0:55:05,1:07:25,1:20:05,1:56:05,7:29:39,3554,4305,3305,4045,4805,6965,26979,Aaron Madeley,United Kingdom,113,exact_norm,1.0,Aaron Madeley,United Kingdom
+229,Isabella Käming,Germany,0:59:42,1:08:42,1:05:56,1:07:37,1:21:40,1:47:40,7:31:17,3582,4122,3956,4057,4900,6460,27077,Isabella Käming,Germany,173,exact_norm,1.0,Isabella Käming,Germany
+230,Clara Padovani,France,0:59:17,1:16:35,0:58:08,1:03:59,1:20:50,1:52:40,7:31:29,3557,4595,3488,3839,4850,6760,27089,Clara Padovani,France,134,exact_norm,1.0,Clara Padovani,France
+231,David Corbí Garrido,Spain,1:07:30,1:09:15,0:59:26,1:05:55,1:19:55,1:49:35,7:31:36,4050,4155,3566,3955,4795,6575,27096,David Corbí Garrido,Spain,146,exact_norm,1.0,David Corbí Garrido,Spain
+232,Emilie-Anne Fleury,Switzerland,1:02:21,1:17:55,1:04:24,1:05:21,1:07:54,1:54:10,7:32:05,3741,4675,3864,3921,4074,6850,27125,Emilie-Anne Fleury,Switzerland,178,exact_norm,1.0,Emilie-Anne Fleury,Switzerland
+233,Malina Werner,Germany,1:04:24,1:05:50,0:56:55,1:08:02,1:22:55,1:54:10,7:32:16,3864,3950,3415,4082,4975,6850,27136,Malina Werner,Germany,250,exact_norm,1.0,Malina Werner,Germany
+234,Ciara Godwin,Ireland,1:04:22,1:12:02,1:03:00,1:01:54,1:14:26,1:57:50,7:33:34,3862,4322,3780,3714,4466,7070,27214,Ciara Godwin,Ireland,213,exact_norm,1.0,Ciara Godwin,Ireland
+235,Jessie Martins,Portugal,1:00:50,1:11:19,1:01:09,1:03:11,1:25:20,1:51:50,7:33:39,3650,4279,3669,3791,5120,6710,27219,Jessie Martins,Portugal,264,exact_norm,1.0,Jessie Martins,Portugal
+236,Joanna Kołcun,Poland,1:00:57,1:16:20,1:01:53,1:07:36,1:23:00,1:45:35,7:35:21,3657,4580,3713,4056,4980,6335,27321,Joanna Kołcun,Poland,305,exact_norm,1.0,Joanna Kołcun,Poland
+237,Ayelén Galarza Rial,Argentina,1:01:07,1:14:12,1:03:18,1:09:10,1:17:10,1:54:00,7:38:57,3667,4452,3798,4150,4630,6840,27537,Ayelén Galarza Rial,Argentina,176,exact_norm,1.0,Ayelén Galarza Rial,Argentina
+238,Elin Antonsson,Sweden,1:09:03,1:05:41,0:57:25,1:09:54,1:24:30,1:54:25,7:40:58,4143,3941,3445,4194,5070,6865,27658,Elin Antonsson,Sweden,136,exact_norm,1.0,Elin Antonsson,Sweden
+239,Erin Sweeney,USA,1:04:51,1:13:30,1:00:20,1:12:29,1:14:10,1:55:40,7:41:00,3891,4410,3620,4349,4450,6940,27660,Erin Sweeney,USA,217,exact_norm,1.0,Erin Sweeney,USA
+240,Karin Harmsen,Netherlands,1:02:37,1:18:10,1:01:11,1:11:41,1:21:50,1:45:35,7:41:04,3757,4690,3671,4301,4910,6335,27664,Karin Harmsen,Netherlands,147,exact_norm,1.0,Karin Harmsen,Netherlands
+241,Angelika Wehnert,Germany,1:05:16,1:17:50,0:59:24,1:14:55,1:16:50,1:48:25,7:42:40,3916,4670,3564,4495,4610,6505,27760,Angelika Wehnert,Germany,210,exact_norm,1.0,Angelika Wehnert,Germany
+242,Matthias Haseleu,Germany,1:00:43,1:14:17,1:00:02,1:14:50,1:20:35,1:52:25,7:42:52,3643,4457,3602,4490,4835,6745,27772,Matthias Haseleu,Germany,245,exact_norm,1.0,Matthias Haseleu,Germany
+243,Dietmar Birzer,Germany,1:05:00,1:14:52,1:00:10,1:13:04,1:23:00,1:47:00,7:43:06,3900,4492,3610,4384,4980,6420,27786,Dietmar Birzer,Germany,212,exact_norm,1.0,Dietmar Birzer,Germany
+244,Victoria Cox,United Kingdom,1:07:06,1:13:45,0:58:57,1:15:30,1:24:25,1:45:40,7:45:23,4026,4425,3537,4530,5065,6340,27923,Victoria Cox,United Kingdom,161,exact_norm,1.0,Victoria Cox,United Kingdom
+245,Jonas Jäggi,Switzerland,1:06:30,1:05:57,0:57:39,1:19:30,1:23:40,1:52:20,7:45:36,3990,3957,3459,4770,5020,6740,27936,Jonas Jäggi,Switzerland,121,exact_norm,1.0,Jonas Jäggi,Switzerland
+246,Caroline Bouzad,France,0:57:49,1:16:25,0:58:48,1:24:35,1:20:55,1:47:05,7:45:37,3469,4585,3528,5075,4855,6425,27937,Caroline Bouzad,France,254,exact_norm,1.0,Caroline Bouzad,France
+247,Gabriela Wagner,Romania,1:00:19,1:15:45,1:01:59,1:18:25,1:22:20,1:47:15,7:46:03,3619,4545,3719,4705,4940,6435,27963,Gabriela Wagner,Romania,127,exact_norm,1.0,Gabriela Wagner,Romania
+248,Nina Kovacic,Slovenia,0:54:16,1:21:10,1:06:30,1:10:55,1:23:35,1:50:10,7:46:36,3256,4870,3990,4255,5015,6610,27996,Nina Kovacic,Slovenia,145,exact_norm,1.0,Nina Kovacic,Slovenia
+249,Erika Kolenc,Slovenia,1:01:06,1:13:23,1:04:07,1:13:36,1:33:00,1:43:15,7:48:27,3666,4403,3847,4416,5580,6195,28107,Erika Kolenc,Slovenia,221,exact_norm,1.0,Erika Kolenc,Slovenia
+250,Urtė Norvaišaitė,Lithuania,1:00:37,1:13:27,1:10:15,1:14:58,1:22:35,1:49:05,7:50:57,3637,4407,4215,4498,4955,6545,28257,Urtė Norvaišaitė,Lithuania,184,exact_norm,1.0,Urtė Norvaišaitė,Lithuania
+251,Jean-François Canon,Belgium,0:57:50,1:19:20,1:10:47,1:06:47,1:23:10,1:53:25,7:51:19,3470,4760,4247,4007,4990,6805,28279,Jean-François Canon,Belgium,238,exact_norm,1.0,Jean-François Canon,Belgium
+252,Zdeněk Černohouz,Czech Republic,1:05:01,1:19:10,1:02:45,1:15:30,1:21:25,1:47:30,7:51:21,3901,4750,3765,4530,4885,6450,28281,Zdeněk Černohouz,Czech Republic,280,exact_norm,1.0,Zdeněk Černohouz,Czech Republic
+253,Vincent Meers,Belgium,1:05:46,1:11:06,1:01:17,1:21:40,1:20:20,1:51:20,7:51:29,3946,4266,3677,4900,4820,6680,28289,Vincent Meers,Belgium,317,exact_norm,1.0,Vincent Meers,Belgium
+254,Vanja Zrimsek,Slovenia,1:02:17,1:17:20,1:07:02,1:12:23,1:20:50,1:51:40,7:51:32,3737,4640,4022,4343,4850,6700,28292,Vanja Zrimsek,Slovenia,177,exact_norm,1.0,Vanja Zrimsek,Slovenia
+255,Nadja Teige,Germany,1:16:05,1:20:35,1:02:32,1:08:53,1:13:20,1:50:15,7:51:40,4565,4835,3752,4133,4400,6615,28300,Nadja Teige,Germany,232,exact_norm,1.0,Nadja Teige,Germany
+256,Martina Becher,Germany,0:59:56,1:12:18,1:19:40,1:09:47,1:21:40,1:49:15,7:52:36,3596,4338,4780,4187,4900,6555,28356,Martina Becher,Germany,218,exact_norm,1.0,Martina Becher,Germany
+257,Jan Sinot,Netherlands,1:08:02,1:20:10,1:09:39,1:10:41,1:21:05,1:43:10,7:52:47,4082,4810,4179,4241,4865,6190,28367,Jan Sinot,Netherlands,275,exact_norm,1.0,Jan Sinot,Netherlands
+258,Catherine Beck,Luxembourg,1:06:03,1:18:10,1:07:11,1:08:03,1:22:10,1:51:40,7:53:17,3963,4690,4031,4083,4930,6700,28397,Catherine Beck,Luxembourg,197,exact_norm,1.0,Catherine Beck,Luxembourg
+259,Martina Spišiaková,Slovakia,1:02:46,1:16:35,1:03:35,1:24:00,1:20:25,1:49:00,7:56:21,3766,4595,3815,5040,4825,6540,28581,Martina Spišiaková,Slovakia,286,exact_norm,1.0,Martina Spišiaková,Slovakia
+260,Linda Walraven-van Oijen,Netherlands,1:06:49,1:17:05,1:12:38,1:05:50,1:18:05,1:56:00,7:56:27,4009,4625,4358,3950,4685,6960,28587,Linda Walraven-van Oijen,Netherlands,156,exact_norm,1.0,Linda Walraven-van Oijen,Netherlands
+261,Anna Sjöberg,Sweden,1:08:15,1:18:00,1:03:52,1:16:25,1:22:20,1:48:05,7:56:57,4095,4680,3832,4585,4940,6485,28617,Anna Sjöberg,Sweden,140,exact_norm,1.0,Anna Sjöberg,Sweden
+262,Tepat Tālāk,Latvia,1:06:46,1:15:50,1:03:22,1:17:35,1:25:10,1:48:50,7:57:33,4006,4550,3802,4655,5110,6530,28653,Tepat Tālāk,Latvia,163,exact_norm,1.0,Tepat Tālāk,Latvia
+263,Ulrike Kehe,Germany,1:18:00,1:18:20,1:00:26,1:16:45,1:18:35,1:47:10,7:59:16,4680,4700,3626,4605,4715,6430,28756,Ulrike Kehe,Germany,311,exact_norm,1.0,Ulrike Kehe,Germany
+264,Sofia Oliveira,Switzerland,1:07:01,1:16:50,1:06:30,1:18:40,1:16:15,1:55:45,8:01:01,4021,4610,3990,4720,4575,6945,28861,Sofia Oliveira,Switzerland,288,exact_norm,1.0,Sofia Oliveira,Switzerland
+265,Kristen Sweeney,USA,1:05:33,1:17:10,1:07:07,1:19:50,1:24:40,1:48:55,8:03:15,3933,4630,4027,4790,5080,6535,28995,Kristen Sweeney,USA,237,exact_norm,1.0,Kristen Sweeney,USA
+266,Irma Kostezer,switzerland,1:07:00,1:10:12,1:10:14,1:23:50,1:22:55,1:49:35,8:03:46,4020,4212,4214,5030,4975,6575,29026,Irma Kostezer,Switzerland,94,exact_norm,1.0,Irma Kostezer,Switzerland
+267,Ana-Maria Iordache,Romania,1:07:00,1:12:01,1:07:46,1:24:25,1:24:55,1:48:20,8:04:27,4020,4321,4066,5065,5095,6500,29067,Ana-Maria Iordache,Romania,226,exact_norm,1.0,Ana-Maria Iordache,Romania
+268,Letizia Pomes,Switzerland,1:02:44,1:18:40,1:07:10,1:22:30,1:25:00,1:50:50,8:06:54,3764,4720,4030,4950,5100,6650,29214,Letizia Pomes,Switzerland,323,exact_norm,1.0,Letizia Pomes,Switzerland
+269,Cristina Pérez Barreiro,Spain,1:12:28,1:18:10,1:10:51,1:11:36,1:24:45,1:49:30,8:07:20,4348,4690,4251,4296,5085,6570,29240,Cristina Pérez Barreiro,Spain,158,exact_norm,1.0,Cristina Pérez Barreiro,Spain
+270,Eva Lesny,Germany,1:08:04,1:19:50,1:07:29,1:13:14,1:25:40,1:54:10,8:08:27,4084,4790,4049,4394,5140,6850,29307,Eva Lesny,Germany,310,exact_norm,1.0,Eva Lesny,Germany
+271,Christiana Themistocleous,Cyprus,1:02:13,1:18:10,1:13:50,1:17:00,1:27:55,1:50:50,8:09:58,3733,4690,4430,4620,5275,6650,29398,Christiana Themistocleous,Cyprus,334,exact_norm,1.0,Christiana Themistocleous,Cyprus
+272,Alexandru Roman,Romania,1:02:27,1:19:20,1:05:18,1:27:05,1:21:20,1:55:00,8:10:30,3747,4760,3918,5225,4880,6900,29430,Alexandru Roman,Romania,207,exact_norm,1.0,Alexandru Roman,Romania
+273,Gintare Olsauskaite,Lithuania,1:02:06,1:17:55,1:09:15,1:21:25,1:24:50,1:55:00,8:10:31,3726,4675,4155,4885,5090,6900,29431,Gintare Olsauskaite,Lithuania,292,exact_norm,1.0,Gintare Olsauskaite,Lithuania
+274,Marius Meller,Germany,1:11:37,1:15:20,1:05:15,1:24:55,1:25:45,1:47:55,8:10:47,4297,4520,3915,5095,5145,6475,29447,Marius Meller,Germany,242,exact_norm,1.0,Marius Meller,Germany
+275,Anne Cristine Rodrigues,Switzerland,1:09:46,1:20:20,1:09:07,1:11:32,1:25:30,1:56:00,8:12:15,4186,4820,4147,4292,5130,6960,29535,Anne Cristine Rodrigues,Switzerland,308,exact_norm,1.0,Anne Cristine Rodrigues,Switzerland
+276,Elke Fasshauer,Denmark,1:08:12,1:19:20,1:06:45,1:18:55,1:29:50,1:50:20,8:13:22,4092,4760,4005,4735,5390,6620,29602,Elke Fasshauer,Denmark,262,exact_norm,1.0,Elke Fasshauer,Denmark
+277,Noora Lahdenperä,Finland,1:10:07,1:20:00,1:06:45,1:20:45,1:20:20,1:56:10,8:14:07,4207,4800,4005,4845,4820,6970,29647,Noora Lahdenperä,Finland,318,exact_norm,1.0,Noora Lahdenperä,Finland
+278,Vanesa Vega Dorado,Germany,1:13:02,1:20:25,1:12:56,1:20:20,1:18:40,1:52:30,8:17:53,4382,4825,4376,4820,4720,6750,29873,Vanesa Vega Dorado,Germany,312,exact_norm,1.0,Vanesa Vega Dorado,Germany
+279,Jessica Englisch,Germany,1:05:12,1:21:10,1:15:35,1:17:10,1:27:15,1:52:15,8:18:37,3912,4870,4535,4630,5235,6735,29917,Jessica Englisch,Germany,263,exact_norm,1.0,Jessica Englisch,Germany
+280,Petr Misik,Slovakia,1:11:44,1:19:05,1:11:04,1:25:40,1:24:45,1:46:45,8:19:03,4304,4745,4264,5140,5085,6405,29943,Petr Misik,Slovakia,198,exact_norm,1.0,Petr Misik,Slovakia
+281,Olivia Michalski,Germany,1:19:15,1:19:05,1:03:15,1:19:30,1:23:40,1:54:55,8:19:40,4755,4745,3795,4770,5020,6895,29980,Olivia Michalski,Germany,216,exact_norm,1.0,Olivia Michalski,Germany
+282,Erle Unt,Estonia,1:17:10,1:20:50,1:13:39,1:14:26,1:21:00,1:54:30,8:21:35,4630,4850,4419,4466,4860,6870,30095,Erle Unt,Estonia,253,exact_norm,1.0,Erle Unt,Estonia
+283,Donnalouise Watts,New Zealand,1:16:50,1:18:20,1:08:01,1:24:20,1:21:15,1:53:15,8:22:01,4610,4700,4081,5060,4875,6795,30121,Donnalouise Watts,New Zealand,257,exact_norm,1.0,Donnalouise Watts,New Zealand
+284,Nicole Burgener,Switzerland,1:10:21,1:18:45,1:05:57,1:22:50,1:29:15,1:56:15,8:23:23,4221,4725,3957,4970,5355,6975,30203,Nicole Burgener,Switzerland,260,exact_norm,1.0,Nicole Burgener,Switzerland
+285,Judit Hesse,Germany,1:09:59,1:19:15,1:14:16,1:22:35,1:23:05,1:55:05,8:24:15,4199,4755,4456,4955,4985,6905,30255,Judit Hesse,Germany,276,exact_norm,1.0,Judit Hesse,Germany
+286,Babette Jünemann,Germany,1:14:15,1:25:40,1:13:06,1:14:36,1:23:55,1:54:45,8:26:17,4455,5140,4386,4476,5035,6885,30377,Babette Jünemann,Germany,281,exact_norm,1.0,Babette Jünemann,Germany
+287,Carmen Molina Barreiro,Spain,1:11:03,1:20:05,1:17:50,1:21:30,1:25:20,1:54:15,8:30:03,4263,4805,4670,4890,5120,6855,30603,Carmen Molina Barreiro,Spain,159,exact_norm,1.0,Carmen Molina Barreiro,Spain
+288,Tanita Cirstea,Romania,1:17:40,1:18:50,1:06:35,1:25:45,1:26:05,1:58:20,8:33:15,4660,4730,3995,5145,5165,7100,30795,Tanita Cirstea,Romania,235,exact_norm,1.0,Tanita Cirstea,Romania
+289,Josephine Cheung,Canada,1:17:05,1:21:50,1:10:52,1:26:40,1:21:35,1:56:00,8:34:02,4625,4910,4252,5200,4895,6960,30842,Josephine Cheung,Canada,333,exact_norm,1.0,Josephine Cheung,Canada
+290,Katharina Edlinger,Austria,1:05:36,1:22:20,1:13:47,1:26:20,1:30:05,1:56:20,8:34:28,3936,4940,4427,5180,5405,6980,30868,Katharina Edlinger,Austria,294,exact_norm,1.0,Katharina Edlinger,Austria
+291,Magdalena Muraszko,Poland,1:16:10,1:21:20,1:14:34,1:22:15,1:23:00,1:57:20,8:34:39,4570,4880,4474,4935,4980,7040,30879,Magdalena Muraszko,Poland,259,exact_norm,1.0,Magdalena Muraszko,Poland
+292,Olivia Causse,USA,1:19:45,1:25:55,1:19:20,1:12:27,1:25:00,1:53:30,8:35:57,4785,5155,4760,4347,5100,6810,30957,Olivia Causse,USA,233,exact_norm,1.0,Olivia Causse,USA
+293,Anna Faragó,Hungary,1:18:35,1:22:40,1:11:22,1:17:40,1:30:05,1:57:15,8:37:37,4715,4960,4282,4660,5405,7035,31057,Anna Faragó,Hungary,313,exact_norm,1.0,Anna Faragó,Hungary
+294,Sanna Tellervo Raatikainen,Finland,1:07:36,1:20:50,1:15:10,1:29:10,1:35:10,1:50:55,8:38:51,4056,4850,4510,5350,5710,6655,31131,Sanna Tellervo Raatikainen,Finland,321,exact_norm,1.0,Sanna Tellervo Raatikainen,Finland
+295,Eveli Tõniste,Estonia,1:18:25,1:24:30,1:14:57,1:18:00,1:36:00,1:52:35,8:44:27,4705,5070,4497,4680,5760,6755,31467,Eveli Tõniste,Estonia,171,exact_norm,1.0,Eveli Tõniste,Estonia
+296,Sarah Galleguillos Kempf,Germany,1:18:05,1:27:50,1:19:25,1:20:55,1:26:00,1:52:30,8:44:45,4685,5270,4765,4855,5160,6750,31485,Sarah Galleguillos Kempf,Germany,291,exact_norm,1.0,Sarah Galleguillos Kempf,Germany
+297,Rocío García Mateos-Cañero,Spain,1:07:12,1:22:05,1:20:15,1:29:05,1:30:55,1:56:30,8:46:02,4032,4925,4815,5345,5455,6990,31562,Rocío García Mateos-Cañero,Spain,182,exact_norm,1.0,Rocío García Mateos-Cañero,Spain
+298,Agnes Aune,France,1:21:05,1:20:25,1:14:50,1:25:20,1:28:45,1:57:15,8:47:40,4865,4825,4490,5120,5325,7035,31660,Agnes Aune,France,230,exact_norm,1.0,Agnes Aune,France
+299,James Nickells,United Kingdom,1:23:40,1:20:35,1:12:30,1:29:55,1:26:10,1:54:55,8:47:45,5020,4835,4350,5395,5170,6895,31665,James Nickells,United Kingdom,211,exact_norm,1.0,James Nickells,United Kingdom
+300,Marlene Kästner,Germany,1:22:05,1:20:45,1:17:45,1:21:25,1:24:30,2:01:25,8:47:55,4925,4845,4665,4885,5070,7285,31675,Marlene Kästner,Germany,231,exact_norm,1.0,Marlene Kästner,Germany
+301,Teija Taavettila,Finland,1:22:15,1:20:40,1:20:00,1:22:05,1:30:15,1:54:55,8:50:10,4935,4840,4800,4925,5415,6895,31810,Teija Taavettila,Finland,322,exact_norm,1.0,Teija Taavettila,Finland
+302,Andreas Zeidler,Germany,1:11:38,1:20:30,1:22:50,1:21:35,1:38:00,1:58:55,8:53:28,4298,4830,4970,4895,5880,7135,32008,Andreas Zeidler,Germany,270,exact_norm,1.0,Andreas Zeidler,Germany
+303,Adam Dzurovcin,Slovakia,1:08:07,1:24:25,1:19:00,1:26:45,1:36:50,1:59:20,8:54:27,4087,5065,4740,5205,5810,7160,32067,Adam Dzurovcin,Slovakia,307,exact_norm,1.0,Adam Dzurovcin,Slovakia
+304,Bram Verbiest,Belgium,1:26:10,1:23:35,1:17:35,1:27:30,1:27:45,1:55:00,8:57:35,5170,5015,4655,5250,5265,6900,32255,Bram Verbiest,Belgium,316,exact_norm,1.0,Bram Verbiest,Belgium
+305,Daniel Schoeman,South Africa,1:25:00,1:25:00,1:13:00,1:33:20,1:32:30,1:51:35,9:00:25,5100,5100,4380,5600,5550,6695,32425,Daniel Schoeman,South Africa,166,exact_norm,1.0,Daniel Schoeman,South Africa
+306,Kseniia Kirianovskaia,Independent Neutral,1:22:50,1:26:10,1:16:35,1:28:15,1:31:15,1:58:25,9:03:30,4970,5170,4595,5295,5475,7105,32610,Kseniia Kirianovskaia,Independent Neutral,335,exact_norm,1.0,Kseniia Kirianovskaia,Independent Neutral
+307,Gavin Easby,United Kingdom,1:16:30,1:28:25,1:15:55,1:32:30,1:30:45,1:59:40,9:03:45,4590,5305,4555,5550,5445,7180,32625,Gavin Easby,United Kingdom,223,exact_norm,1.0,Gavin Easby,United Kingdom
+308,Jayme Becerra,USA,1:26:35,1:27:10,1:17:25,1:32:10,1:30:45,1:49:55,9:04:00,5195,5230,4645,5530,5445,6595,32640,Jayme Becerra,USA,236,exact_norm,1.0,Jayme Becerra,USA
+309,Nikoleta Takacova,Slovakia,1:22:55,1:26:50,1:23:00,1:25:30,1:31:05,1:55:20,9:04:40,4975,5210,4980,5130,5465,6920,32680,Nikoleta Takacova,Slovakia,327,exact_norm,1.0,Nikoleta Takacova,Slovakia
+310,Pierminia Garau,Italy,1:20:05,1:21:05,1:22:30,1:28:40,1:35:25,1:57:00,9:04:45,4805,4865,4950,5320,5725,7020,32685,Pierminia Garau,Italy,240,exact_norm,1.0,Pierminia Garau,Italy
+311,Heike Kufleitner,Germany,1:22:00,1:22:25,1:17:50,1:29:55,1:35:00,2:00:10,9:07:20,4920,4945,4670,5395,5700,7210,32840,Heike Kufleitner,Germany,246,exact_norm,1.0,Heike Kufleitner,Germany
+312,Sylke Peeters,Belgium,1:19:50,1:26:50,1:18:55,1:29:30,1:32:35,2:04:30,9:12:10,4790,5210,4735,5370,5555,7470,33130,Sylke Peeters,Belgium,324,exact_norm,1.0,Sylke Peeters,Belgium
+313,Ioana Raluca Petrescu,Romania,1:26:40,1:27:00,1:22:40,1:34:20,1:31:55,1:54:35,9:17:10,5200,5220,4960,5660,5515,6875,33430,Ioana Raluca Petrescu,Romania,285,exact_norm,1.0,Ioana Raluca Petrescu,Romania
+314,Karen Leung,Belgium,1:21:25,1:27:55,1:21:35,1:28:20,1:35:40,2:03:30,9:18:25,4885,5275,4895,5300,5740,7410,33505,Karen Leung,Belgium,315,exact_norm,1.0,Karen Leung,Belgium
+315,Jennifer Miller,USA,1:15:00,1:31:05,1:26:40,1:30:20,1:37:30,1:59:25,9:20:00,4500,5465,5200,5420,5850,7165,33600,Jennifer Miller,USA,295,exact_norm,1.0,Jennifer Miller,USA
+316,Mary Beth Guilbo,USA,1:25:45,1:26:55,1:26:45,1:27:20,1:33:40,2:00:25,9:20:50,5145,5215,5205,5240,5620,7225,33650,Mary Beth Guilbo,USA,160,exact_norm,1.0,Mary Beth Guilbo,USA
+317,Charissa Gibson,Australia,1:21:50,1:24:15,1:24:40,1:35:30,1:33:05,2:01:40,9:21:00,4910,5055,5080,5730,5585,7300,33660,Charissa Gibson,Australia,293,exact_norm,1.0,Charissa Gibson,Australia
+318,Eva Berschet,Germany,1:23:50,1:26:55,1:24:35,1:32:15,1:34:10,2:03:15,9:25:00,5030,5215,5075,5535,5650,7395,33900,Eva Berschet,Germany,330,exact_norm,1.0,Eva Berschet,Germany
+319,Maria Margiolou,Greece,1:30:00,1:31:05,1:26:20,1:32:10,1:30:40,1:59:40,9:29:55,5400,5465,5180,5530,5440,7180,34195,Maria Margiolou,Greece,272,exact_norm,1.0,Maria Margiolou,Greece
+320,Marie Joelle Fleury,Switzerland,1:31:55,1:30:30,1:26:15,1:30:15,1:32:25,2:02:45,9:34:05,5515,5430,5175,5415,5545,7365,34445,Marie Joelle Fleury,Switzerland,150,exact_norm,1.0,Marie Joelle Fleury,Switzerland
+321,Barbara Ortwein,Germany,1:29:45,1:26:50,1:29:10,1:32:30,1:36:10,2:01:45,9:36:10,5385,5210,5350,5550,5770,7305,34570,Barbara Ortwein,Germany,331,exact_norm,1.0,Barbara Ortwein,Germany
+322,Richard James Fletcher,Belgium,1:30:15,1:28:35,1:27:20,1:31:35,1:37:45,2:03:20,9:38:50,5415,5315,5240,5495,5865,7400,34730,Richard James Fletcher,Belgium,219,exact_norm,1.0,Richard James Fletcher,Belgium
+323,Anna Doesburg,Netherlands,1:27:35,1:31:10,1:32:50,1:32:20,1:30:50,2:05:05,9:39:50,5255,5470,5570,5540,5450,7505,34790,Anna Doesburg,Netherlands,325,exact_norm,1.0,Anna Doesburg,Netherlands
+324,Henrik Schleifenbaum,Germany,1:32:25,1:33:05,1:28:45,1:33:30,1:37:30,2:03:40,9:48:55,5545,5585,5325,5610,5850,7420,35335,Henrik Schleifenbaum,Germany,255,exact_norm,1.0,Henrik Schleifenbaum,Germany
+325,Gloria Johnston,USA,1:31:50,1:33:15,1:26:35,1:36:50,1:37:25,2:05:25,9:51:20,5510,5595,5195,5810,5845,7525,35480,Gloria Johnston,USA,309,exact_norm,1.0,Gloria Johnston,USA
+326,Sarah Mancina,USA,1:32:35,1:36:45,1:26:00,1:33:30,1:41:05,2:06:05,9:56:00,5555,5805,5160,5610,6065,7565,35760,Sarah Mancina,USA,328,exact_norm,1.0,Sarah Mancina,USA
+327,Jason Stevens,Australia,1:31:40,1:38:25,1:32:15,1:31:45,1:33:00,2:13:50,10:00:55,5500,5905,5535,5505,5580,8030,36055,Jason Stevens,Australia,304,exact_norm,1.0,Jason Stevens,Australia
+328,Ronen Rojas,Independent Neutral,1:37:05,1:34:10,1:33:40,1:35:25,1:39:10,2:05:00,10:04:30,5825,5650,5620,5725,5950,7500,36270,Ronen Rojas,Independent Neutral,336,exact_norm,1.0,Ronen Rojas,Independent Neutral
+329,Albert Haas,France,1:34:25,1:36:45,1:31:35,1:39:05,1:38:00,2:06:20,10:06:10,5665,5805,5495,5945,5880,7580,36370,Albert Haas,France,200,exact_norm,1.0,Albert Haas,France
+330,Majeedah Belding,Canada,1:39:25,1:36:35,1:34:15,1:39:00,1:39:35,2:02:30,10:11:20,5965,5795,5655,5940,5975,7350,36680,Majeedah Belding,Canada,297,exact_norm,1.0,Majeedah Belding,Canada
+331,Dora Weisskopf,Switzerland,1:35:10,1:34:25,1:37:40,1:38:40,1:42:15,2:08:05,10:16:15,5710,5665,5860,5920,6135,7685,36975,Dora Weisskopf,Switzerland,199,exact_norm,1.0,Dora Weisskopf,Switzerland
+332,Alexandre Portilho,Brazil,1:40:35,1:35:25,1:36:45,1:35:05,1:44:00,2:07:35,10:19:25,6035,5725,5805,5705,6240,7655,37165,Alexandre Portilho,Brazil,320,exact_norm,1.0,Alexandre Portilho,Brazil
+333,Franco Assenza,Argentina,1:33:20,1:30:00,1:30:10,1:56:40,1:56:40,2:23:00,10:49:50,5600,5400,5410,7000,7000,8580,38990,Franco Assenza,Argentina,183,exact_norm,1.0,Franco Assenza,Argentina
+334,Ruth Viane,Belgium,1:44:05,1:43:25,1:41:15,1:44:10,1:49:25,2:08:35,10:50:55,6245,6205,6075,6250,6565,7715,39055,Ruth Viane,Belgium,319,exact_norm,1.0,Ruth Viane,Belgium

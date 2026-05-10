@@ -1,0 +1,10 @@
+scraped_at=2026-05-05T00-33-21
+source_url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQCH2Vmhfc7pDXw4lIwRD2qRcSKOQgfth14vqk_5f7OUVucSKapRwVxZ6j6k2Zlzx1qagXHcGNqNmb3/pubhtml/sheet?headers=false&gid=1676192463
+raw_html=data/worldseries/leaderboard_raw_2026-05-05T00-33-21.html
+leaderboard_rows=334
+finished_count=334
+finished_total=336
+finished_text=🏁 334 / 336 Finished
+master_rows=336
+matched_rows=334
+unmatched_rows=0
