@@ -1,4 +1,6 @@
 {
   "outputDirectory": "scripts/worldseries_animated_page",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "framework": null,
+  "buildCommand": null
 }
