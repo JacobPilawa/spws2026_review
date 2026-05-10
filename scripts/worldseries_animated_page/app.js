@@ -879,7 +879,7 @@ function requestUpdate() {
 function renderPuzzles(_rawProgress) {
   if (currentSceneKey !== "puzzles") {
     currentSceneKey = "puzzles";
-    const body = sceneShell("The six puzzles", "A quick visual inventory before the race begins.");
+    const body = sceneShell("The Six Challenges", "");
     body.innerHTML = `
       <div class="puzzle-overview-grid">
         ${DATA.rounds.map((r) => `<article class="puzzle-overview-card" style="--round-color:${r.color}"><img src="${r.image}" alt="Challenge ${r.round} puzzle"><div>Challenge ${r.round}: ${esc(r.label)}</div></article>`).join("")}
