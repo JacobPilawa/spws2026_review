@@ -9,10 +9,10 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[2]
+STATIC_ROOT = Path(__file__).resolve().parent
 OUT_DIR = Path(__file__).resolve().parent
-LEADERBOARD = ROOT / "data/worldseries/leaderboard_latest.csv"
-COMPETITORS = ROOT / "data/worldseries/worldseries_competitors_with_leaderboard.csv"
+LEADERBOARD = STATIC_ROOT / "../data/worldseries/leaderboard_latest.csv"
+COMPETITORS = STATIC_ROOT / "../data/worldseries/worldseries_competitors_with_leaderboard.csv"
 
 ROUND_META = {
     1: {"label": "Gradient", "color": "#ff5f57", "limitSeconds": 75 * 60, "pieces": 500},
@@ -287,7 +287,7 @@ def main() -> None:
                 "color": ROUND_META[r]["color"],
                 "pieces": ROUND_META[r]["pieces"],
                 "limitSeconds": ROUND_META[r]["limitSeconds"],
-                "image": f"../../data/worldseries/images/round{r}.png",
+                "image": f"images/round{r}.png",
                 "winner": {
                     "name": winner["name"],
                     "country": winner["country"],
@@ -332,7 +332,7 @@ def main() -> None:
     for _, row in countries.iterrows():
         country = row["country"]
         lon, lat = COUNTRY_COORDS.get(country, [11.582, 48.135])
-        travel.append({"country": country, "count": int(row["count"]), "lon": lon, "lat": lat, "flag": f"../../data/worldseries/flags/{FLAG_CODES.get(country, 'un')}.png"})
+        travel.append({"country": country, "count": int(row["count"]), "lon": lon, "lat": lat, "flag": f"flags/{FLAG_CODES.get(country, 'un')}.png"})
 
     payload = {
         "meta": {

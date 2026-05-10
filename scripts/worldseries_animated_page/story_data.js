@@ -19,273 +19,273 @@ window.WORLD_SERIES_DATA = {
       "count": 63,
       "lon": 10.5,
       "lat": 51.2,
-      "flag": "../../data/worldseries/flags/de.png"
+      "flag": "flags/de.png"
     },
     {
       "country": "United States",
       "count": 36,
       "lon": -95.7,
       "lat": 37.1,
-      "flag": "../../data/worldseries/flags/us.png"
+      "flag": "flags/us.png"
     },
     {
       "country": "Netherlands",
       "count": 16,
       "lon": 5.3,
       "lat": 52.1,
-      "flag": "../../data/worldseries/flags/nl.png"
+      "flag": "flags/nl.png"
     },
     {
       "country": "Sweden",
       "count": 16,
       "lon": 18.6,
       "lat": 60.1,
-      "flag": "../../data/worldseries/flags/se.png"
+      "flag": "flags/se.png"
     },
     {
       "country": "Finland",
       "count": 15,
       "lon": 25.7,
       "lat": 61.9,
-      "flag": "../../data/worldseries/flags/fi.png"
+      "flag": "flags/fi.png"
     },
     {
       "country": "Switzerland",
       "count": 14,
       "lon": 8.2,
       "lat": 46.8,
-      "flag": "../../data/worldseries/flags/ch.png"
+      "flag": "flags/ch.png"
     },
     {
       "country": "Spain",
       "count": 14,
       "lon": -3.7,
       "lat": 40.4,
-      "flag": "../../data/worldseries/flags/es.png"
+      "flag": "flags/es.png"
     },
     {
       "country": "Poland",
       "count": 12,
       "lon": 19.1,
       "lat": 52.1,
-      "flag": "../../data/worldseries/flags/pl.png"
+      "flag": "flags/pl.png"
     },
     {
       "country": "Czech Republic",
       "count": 12,
       "lon": 15.5,
       "lat": 49.8,
-      "flag": "../../data/worldseries/flags/cz.png"
+      "flag": "flags/cz.png"
     },
     {
       "country": "Belgium",
       "count": 12,
       "lon": 4.5,
       "lat": 50.5,
-      "flag": "../../data/worldseries/flags/be.png"
+      "flag": "flags/be.png"
     },
     {
       "country": "France",
       "count": 11,
       "lon": 2.2,
       "lat": 46.2,
-      "flag": "../../data/worldseries/flags/fr.png"
+      "flag": "flags/fr.png"
     },
     {
       "country": "Slovenia",
       "count": 11,
       "lon": 14.9,
       "lat": 46.2,
-      "flag": "../../data/worldseries/flags/si.png"
+      "flag": "flags/si.png"
     },
     {
       "country": "United Kingdom",
       "count": 11,
       "lon": -3.4,
       "lat": 55.4,
-      "flag": "../../data/worldseries/flags/gb.png"
+      "flag": "flags/gb.png"
     },
     {
       "country": "Estonia",
       "count": 9,
       "lon": 25.0,
       "lat": 58.6,
-      "flag": "../../data/worldseries/flags/ee.png"
+      "flag": "flags/ee.png"
     },
     {
       "country": "Australia",
       "count": 9,
       "lon": 133.8,
       "lat": -25.3,
-      "flag": "../../data/worldseries/flags/au.png"
+      "flag": "flags/au.png"
     },
     {
       "country": "Slovakia",
       "count": 8,
       "lon": 19.7,
       "lat": 48.7,
-      "flag": "../../data/worldseries/flags/sk.png"
+      "flag": "flags/sk.png"
     },
     {
       "country": "Hungary",
       "count": 7,
       "lon": 19.5,
       "lat": 47.2,
-      "flag": "../../data/worldseries/flags/hu.png"
+      "flag": "flags/hu.png"
     },
     {
       "country": "Romania",
       "count": 7,
       "lon": 24.9,
       "lat": 45.9,
-      "flag": "../../data/worldseries/flags/ro.png"
+      "flag": "flags/ro.png"
     },
     {
       "country": "Lithuania",
       "count": 6,
       "lon": 23.9,
       "lat": 55.2,
-      "flag": "../../data/worldseries/flags/lt.png"
+      "flag": "flags/lt.png"
     },
     {
       "country": "Denmark",
       "count": 6,
       "lon": 9.5,
       "lat": 56.3,
-      "flag": "../../data/worldseries/flags/dk.png"
+      "flag": "flags/dk.png"
     },
     {
       "country": "Canada",
       "count": 6,
       "lon": -106.3,
       "lat": 56.1,
-      "flag": "../../data/worldseries/flags/ca.png"
+      "flag": "flags/ca.png"
     },
     {
       "country": "Portugal",
       "count": 4,
       "lon": -8.2,
       "lat": 39.4,
-      "flag": "../../data/worldseries/flags/pt.png"
+      "flag": "flags/pt.png"
     },
     {
       "country": "Norway",
       "count": 3,
       "lon": 8.5,
       "lat": 60.5,
-      "flag": "../../data/worldseries/flags/no.png"
+      "flag": "flags/no.png"
     },
     {
       "country": "South Africa",
       "count": 3,
       "lon": 22.9,
       "lat": -30.6,
-      "flag": "../../data/worldseries/flags/za.png"
+      "flag": "flags/za.png"
     },
     {
       "country": "Independent Neutral",
       "count": 3,
       "lon": 37.6,
       "lat": 55.8,
-      "flag": "../../data/worldseries/flags/un.png"
+      "flag": "flags/un.png"
     },
     {
       "country": "Argentina",
       "count": 2,
       "lon": -63.6,
       "lat": -38.4,
-      "flag": "../../data/worldseries/flags/ar.png"
+      "flag": "flags/ar.png"
     },
     {
       "country": "Italy",
       "count": 2,
       "lon": 12.6,
       "lat": 42.5,
-      "flag": "../../data/worldseries/flags/it.png"
+      "flag": "flags/it.png"
     },
     {
       "country": "New Zealand",
       "count": 2,
       "lon": 174.9,
       "lat": -40.9,
-      "flag": "../../data/worldseries/flags/nz.png"
+      "flag": "flags/nz.png"
     },
     {
       "country": "Latvia",
       "count": 2,
       "lon": 24.6,
       "lat": 56.9,
-      "flag": "../../data/worldseries/flags/lv.png"
+      "flag": "flags/lv.png"
     },
     {
       "country": "Ireland",
       "count": 2,
       "lon": -8.2,
       "lat": 53.4,
-      "flag": "../../data/worldseries/flags/ie.png"
+      "flag": "flags/ie.png"
     },
     {
       "country": "Brazil",
       "count": 2,
       "lon": -51.9,
       "lat": -14.2,
-      "flag": "../../data/worldseries/flags/br.png"
+      "flag": "flags/br.png"
     },
     {
       "country": "Austria",
       "count": 1,
       "lon": 14.6,
       "lat": 47.5,
-      "flag": "../../data/worldseries/flags/at.png"
+      "flag": "flags/at.png"
     },
     {
       "country": "Cyprus",
       "count": 1,
       "lon": 33.4,
       "lat": 35.1,
-      "flag": "../../data/worldseries/flags/cy.png"
+      "flag": "flags/cy.png"
     },
     {
       "country": "Luxembourg",
       "count": 1,
       "lon": 6.1,
       "lat": 49.8,
-      "flag": "../../data/worldseries/flags/lu.png"
+      "flag": "flags/lu.png"
     },
     {
       "country": "Indonesia",
       "count": 1,
       "lon": 113.9,
       "lat": -0.8,
-      "flag": "../../data/worldseries/flags/id.png"
+      "flag": "flags/id.png"
     },
     {
       "country": "India",
       "count": 1,
       "lon": 78.9,
       "lat": 20.6,
-      "flag": "../../data/worldseries/flags/in.png"
+      "flag": "flags/in.png"
     },
     {
       "country": "Iceland",
       "count": 1,
       "lon": -19.0,
       "lat": 64.9,
-      "flag": "../../data/worldseries/flags/is.png"
+      "flag": "flags/is.png"
     },
     {
       "country": "Croatia",
       "count": 1,
       "lon": 15.2,
       "lat": 45.1,
-      "flag": "../../data/worldseries/flags/hr.png"
+      "flag": "flags/hr.png"
     },
     {
       "country": "Greece",
       "count": 1,
       "lon": 21.8,
       "lat": 39.1,
-      "flag": "../../data/worldseries/flags/gr.png"
+      "flag": "flags/gr.png"
     }
   ],
   "worldPaths": [
@@ -1005,7 +1005,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#ff5f57",
       "pieces": 500,
       "limitSeconds": 4500,
-      "image": "../../data/worldseries/images/round1.png",
+      "image": "images/round1.png",
       "winner": {
         "name": "Weronika Huptas",
         "country": "Poland",
@@ -10484,7 +10484,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#3587ff",
       "pieces": 500,
       "limitSeconds": 4500,
-      "image": "../../data/worldseries/images/round2.png",
+      "image": "images/round2.png",
       "winner": {
         "name": "Wiktor Kacprzak",
         "country": "Poland",
@@ -20297,7 +20297,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#22b66e",
       "pieces": 500,
       "limitSeconds": 4500,
-      "image": "../../data/worldseries/images/round3.png",
+      "image": "images/round3.png",
       "winner": {
         "name": "Wiktor Kacprzak",
         "country": "Poland",
@@ -30439,7 +30439,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#f3b82f",
       "pieces": 500,
       "limitSeconds": 4500,
-      "image": "../../data/worldseries/images/round4.png",
+      "image": "images/round4.png",
       "winner": {
         "name": "Maartje van der Meer",
         "country": "Netherlands",
@@ -40920,7 +40920,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#a76bf5",
       "pieces": 500,
       "limitSeconds": 4500,
-      "image": "../../data/worldseries/images/round5.png",
+      "image": "images/round5.png",
       "winner": {
         "name": "Maartje van der Meer",
         "country": "Netherlands",
@@ -51735,7 +51735,7 @@ window.WORLD_SERIES_DATA = {
       "color": "#ff7ba8",
       "pieces": 636,
       "limitSeconds": 5400,
-      "image": "../../data/worldseries/images/round6.png",
+      "image": "images/round6.png",
       "winner": {
         "name": "Wiktor Kacprzak",
         "country": "Poland",
